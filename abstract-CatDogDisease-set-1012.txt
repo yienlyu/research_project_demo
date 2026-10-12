@@ -1,0 +1,1720 @@
+1. Nat Cardiovasc Res. 2024 Aug;3(8):970-986. doi: 10.1038/s44161-024-00507-y. Epub 
+2024 Jul 17.
+
+Cytotoxic T cells drive doxorubicin-induced cardiac fibrosis and systolic 
+dysfunction.
+
+Bayer AL(1), Zambrano MA(1), Smolgovsky S(1), Robbe ZL(1), Ariza A(2), Kaur 
+K(1), Sawden M(1), Avery A(3), London C(1)(4), Asnani A(2), Alcaide P(5).
+
+Author information:
+(1)Department of Immunology, Tufts University, Boston, MA, USA.
+(2)CardioVascular Institute, Beth Israel Deaconess Medical Center and Harvard 
+Medical School, Boston, MA, USA.
+(3)Department of Microbiology, Immunology, and Pathology, College of Veterinary 
+Medicine and Biomedical Science, Colorado State University, Fort Collins, CO, 
+USA.
+(4)Cummings School of Veterinary Medicine, Tufts University, Boston, MA, USA.
+(5)Department of Immunology, Tufts University, Boston, MA, USA. 
+pilar.alcaide@tufts.edu.
+
+Doxorubicin, the most prescribed chemotherapeutic drug, causes dose-dependent 
+cardiotoxicity and heart failure. However, our understanding of the immune 
+response elicited by doxorubicin is limited. Here we show that an aberrant CD8+ 
+T cell immune response following doxorubicin-induced cardiac injury drives 
+adverse remodeling and cardiomyopathy. Doxorubicin treatment in 
+non-tumor-bearing mice increased circulating and cardiac IFNγ+CD8+ T cells and 
+activated effector CD8+ T cells in lymphoid tissues. Moreover, doxorubicin 
+promoted cardiac CD8+ T cell infiltration and depletion of CD8+ T cells in 
+doxorubicin-treated mice decreased cardiac fibrosis and improved systolic 
+function. Doxorubicin treatment induced ICAM-1 expression by cardiac fibroblasts 
+resulting in enhanced CD8+ T cell adhesion and transformation, contact-dependent 
+CD8+ degranulation and release of granzyme B. Canine lymphoma patients and human 
+patients with hematopoietic malignancies showed increased circulating CD8+ T 
+cells after doxorubicin treatment. In human cancer patients, T cells expressed 
+IFNγ and CXCR3, and plasma levels of the CXCR3 ligands CXCL9 and CXCL10 
+correlated with decreased systolic function.
+
+© 2024. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s44161-024-00507-y
+PMCID: PMC12324073
+PMID: 39196030 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests The authors have no 
+competing interests to declare.
+
+
+2. J Am Vet Med Assoc. 2022 Mar 8;260(9):1-10. doi: 10.2460/javma.21.03.0122.
+
+Clinical and pathological findings of rabbits with lymphoma: 16 cases 
+(1996-2019).
+
+Robertson JA(1), Guzman DS(2), Willcox JL(3), Keel K(4), Vernau W(4).
+
+Author information:
+(1)William R. Pritchard Veterinary Medical Teaching Hospital, School of 
+Veterinary Medicine, University of California-Davis, Davis, CA.
+(2)Department of Medicine and Epidemiology, School of Veterinary Medicine, 
+University of California-Davis, Davis, CA.
+(3)Department of Surgical and Radiological Sciences, School of Veterinary 
+Medicine, University of California-Davis, Davis, CA.
+(4)Department of Pathology, Microbiology and Immunology, School of Veterinary 
+Medicine, University of California-Davis, Davis, CA.
+
+OBJECTIVE: To determine the clinical and pathological findings of rabbits 
+diagnosed with lymphoma.
+ANIMALS: 16 rabbits.
+PROCEDURES: The medical and pathology records database of the Veterinary Medical 
+Teaching Hospital at the University of California, Davis was searched for 
+rabbits diagnosed with lymphoma from 1996 to 2019.
+RESULTS: Mean age of the 16 rabbits was 8 years (range, 4.5 to 12 years). 
+Immunophenotyping was performed in 14 cases. Diffuse, large, B-cell lymphoma was 
+most common (n = 7) followed by epitheliotropic, T-cell lymphoma (2); type II 
+enteropathy-associated, T-cell lymphoma (2); marginal-zone, B-cell lymphoma (1); 
+peripheral, T-cell lymphoma not otherwise specified (cutaneous 
+nonepitheliotropic lymphoma; 1); primary, mediastinal (thymic) large B-cell 
+lymphoma (1), and unclassified (cytology only with no immunophenotyping; 2). 
+Multiple chemotherapy protocols were used on the basis of each individual 
+animal's disease state. Initial clinical improvement was reported for most 
+rabbits receiving chemotherapy (5/6), with diffuse B-cell lymphoma responding 
+most favorably to treatment. The 11 rabbits included in the survival analysis 
+had a median survival time of 60 days (range, 1 to 480 days), and those 
+diagnosed with B- and T-cell lymphoma had a median survival time of 8 and 36 
+days (range, 1 to 150 and 1 to 90 days), respectively.
+CLINICAL RELEVANCE: Rabbits develop a range of lymphoma subtypes and, similar to 
+humans and dogs, diffuse large B-cell lymphoma appears to be the most common. 
+Chemotherapy treatments followed multiple protocols, which were mostly well 
+tolerated and had a highly variable response. Further research into chemotherapy 
+protocols is needed to optimize treatment of lymphoma in rabbits.
+
+DOI: 10.2460/javma.21.03.0122
+PMID: 35263294 [Indexed for MEDLINE]
+
+
+3. Blood Adv. 2022 Jul 12;6(13):4073-4084. doi: 10.1182/bloodadvances.2021005045.
+
+Bite-size introduction to canine hematologic malignancies.
+
+Atherton MJ(1)(2), Mason NJ(1)(3).
+
+Author information:
+(1)Department of Clinical Sciences and Advanced Medicine.
+(2)Department of Biomedical Sciences, and.
+(3)Department of Pathobiology, School of Veterinary Medicine, University of 
+Pennsylvania, Philadelphia, PA.
+
+Hematologic malignancies are frequently diagnosed in dogs and result in a 
+spectrum of clinical signs associated with specific disease types. The most 
+frequently encountered hematologic tumors in dogs include lymphoma, lymphoid and 
+myeloid leukemias, and mast cell, plasma cell, and histiocytic neoplasias. 
+Coupled with the heterogeneous presentations of the different categories and 
+subtypes of canine hematologic malignancies, outcomes for these tumors are also 
+variable. Considering this, appropriate treatment options range from active 
+surveillance to curative intent approaches harnessing surgical, 
+chemotherapeutic, and radiation-based modalities. The underlying pathology of 
+many of these diseases bears remarkable resemblance to that of the corresponding 
+diagnosis made in human patients. We introduce some of the pathogenic drivers of 
+canine hematologic cancers alongside their clinical presentations. An overview 
+of standard-of-care therapies for each of these diseases is also provided. As 
+comparative oncology gains recognition as a valuable setting in which to 
+investigate the pathogenesis of neoplasia and provide powerful, clinically 
+relevant, immunocompetent models for the evaluation of novel therapies, the 
+number of clinicians and scientists participating in cancer research involving 
+dogs is expected to increase. This review aims at providing an introductory 
+overview of canine hematologic malignancies.
+
+© 2022 by The American Society of Hematology. Licensed under Creative Commons 
+Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0), 
+permitting only noncommercial, nonderivative use with attribution. All other 
+rights reserved.
+
+DOI: 10.1182/bloodadvances.2021005045
+PMCID: PMC9278293
+PMID: 35316831 [Indexed for MEDLINE]
+
+
+4. J Vet Intern Med. 2023 Jan;37(1):236-246. doi: 10.1111/jvim.16587. Epub 2022 Nov 
+25.
+
+Sensitivity of canine hematological cancers to BH3 mimetics.
+
+Jegatheeson S(1)(2), Cannon C(1), Mansfield C(1), Devlin J(1), Roberts A(2).
+
+Author information:
+(1)Faculty of Veterinary and Agricultural Sciences, The University of Melbourne, 
+Werribee, Victoria, Australia.
+(2)Blood Cells and Blood Cancer Division, The Walter and Eliza Hall Institute of 
+Medical Research, Parkville, Victoria, Australia.
+
+BACKGROUND: Inhibition of antiapoptotic B-cell lymphoma 2 (BCL2) proteins by 
+small molecule Bcl-2 homology 3 (BH3) mimetics causes rapid induction of 
+apoptosis of human hematological cancers in vitro and in vivo.
+OBJECTIVES: Assess in vitro sensitivity of non-neoplastic lymphocytes and 
+primary hematological cancer cells from dogs to venetoclax (VEN) or the dual 
+BCL2/ B-cell lymphoma-extra-large (BCLxL) inhibitor, navitoclax (NAV), and 
+evaluate the association between BCL2 protein expression and VEN sensitivity.
+ANIMALS: Nine client-owned dogs without cancer and 18 client-owned dogs with 
+hematological cancer.
+METHODS: Prospective, nonrandomized noncontrolled study. Lymphocytes isolated 
+from peripheral blood, lymph node, or bone marrow from dogs were incubated with 
+BH3 mimetics for 24 hours. Viable cells were counted using flow cytometry and 
+half maximal effective concentration (EC50 ) was calculated. BCL2 protein from 
+whole cell lysates was assessed via immunoblots.
+RESULTS: Nodal B and T lymphocytes were more sensitive to VEN than circulating 
+lymphocytes (P = .02). Neoplastic T lymphocytes were sensitive to VEN (mean EC50 
+ ± SD = 0.023 ± 0.018 μM), whereas most non-indolent B cell cancers were 
+resistant to killing by VEN (mean EC50  ± SD = 288 ± 700 μM). Unclassified 
+leukemias showed variable sensitivity to VEN (mean EC50  ± SD = 0.49 ± 0.66 μM). 
+Detection of BCL2 protein was not associated with VEN sensitivity.
+CONCLUSION AND CLINICAL IMPORTANCE: Neoplastic canine T lymphocytes are 
+sensitive to VEN in vitro. Quantification of BCL2 protein alone is insufficient 
+to predict sensitivity to VEN.
+
+© 2022 The Authors. Journal of Veterinary Internal Medicine published by Wiley 
+Periodicals LLC on behalf of American College of Veterinary Internal Medicine.
+
+DOI: 10.1111/jvim.16587
+PMCID: PMC9889650
+PMID: 36433867 [Indexed for MEDLINE]
+
+Conflict of interest statement: Andrew Roberts is an employee of the Walter and 
+Eliza Hall Institute which receives milestone and royalty payments related to 
+venetoclax and receives a share of these royalties from the Institute. Andrew 
+Roberts has received research funding to his institutions from Abbvie for 
+investigator‐initiated clinical trials of venetoclax. No other authors have a 
+conflict of interest.
+
+
+5. J Vet Intern Med. 2022 Mar;36(2):733-742. doi: 10.1111/jvim.16388. Epub 2022 Feb 
+21.
+
+Outcome of stereotactic body radiation for treatment of nasal and nasopharyngeal 
+lymphoma in 32 cats.
+
+Reczynska AI(1), LaRue SM(1), Boss MK(1), Lee BI(1), Leary D(1), Pohlmann K(2), 
+Griffin L(1), Lana S(3), Wormhoudt Martin T(1).
+
+Author information:
+(1)Department of Environment and Radiological Health Sciences, College of 
+Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort 
+Collins, Colorado, USA.
+(2)PetCure Oncology, Loveland, Colorado, USA.
+(3)Department of Clinical Science, College of Veterinary Medicine and Biomedical 
+Sciences, Colorado State University, Fort Collins, Colorado, USA.
+
+BACKGROUND: The safety and efficacy of stereotactic body radiation therapy 
+(SBRT) in the treatment of localized nasal lymphoma in cats has not been 
+described.
+HYPOTHESIS: Stereotactic body radiation therapy with or without adjuvant 
+chemotherapy is an effective and well-tolerated treatment for localized nasal 
+lymphoma in cats.
+ANIMALS: Thirty-two client owned cats referred to Colorado State University for 
+the treatment of nasal lymphoma.
+METHODS: Retrospective study of cats treated with SBRT between 2010 and 2020 at 
+Colorado State University. Diagnosis of nasal lymphoma was obtained via cytology 
+or histopathology. Signalment, radiation protocol, concurrent treatments, 
+adverse effects, and survival were recorded.
+RESULTS: Progression free survival was 225 days (95% CI 98-514) and median 
+survival time (MST) was 365 days (95% CI 123-531). No significant difference in 
+survival was identified between cats that received 1 versus greater than 1 
+fraction (MST 427 vs. 123 days, P = 0.88). Negative prognostic factors included 
+cribriform lysis (MST 121 vs. 876 days, P = 0.0009) and intracalvarial 
+involvement (MST 100 vs. 438 days, P = 0.0007). Disease progression was noted in 
+38% (12/32), locally in 22% (7/32), and systemically in 16% (5/32). No cats 
+developed acute adverse effects. Ten cats developed late adverse effects: 
+keratitis/keratitis sicca (n = 2), alopecia (n = 4), and leukotrichia (n = 4). 
+Twenty-four cats (75%) had signs consistent with chronic rhinitis.
+CONCLUSIONS: SBRT is effective and well tolerated for treating localized nasal 
+lymphoma in cats. Outcomes for cats with lower stage disease (canine modified 
+Adam's stage 3 and lower) are comparable to historic data of cats treated with 
+fractionated radiation therapy.
+
+© 2022 The Authors. Journal of Veterinary Internal Medicine published by Wiley 
+Periodicals LLC on behalf of American College of Veterinary Internal Medicine.
+
+DOI: 10.1111/jvim.16388
+PMCID: PMC8965259
+PMID: 35188694 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+6. Cancer Chemother Pharmacol. 2025 May 29;95(1):58. doi: 
+10.1007/s00280-025-04778-5.
+
+Phase 1 studies of the indenoisoquinolines LMP776 and LMP744 in patients with 
+solid tumors and lymphomas.
+
+O'Sullivan Coyne G(1), Kummar S(1)(2), Rubinstein LV(3), Wilsker D(4), Moore 
+N(1), Hogu M(1), Piekarz R(5), Covey J(1), Beumer JH(6)(7)(8), Ferry-Galow 
+KV(4), Villaruz LC(6), Hollingshead MG(9), Holleran JL(6), Deppas JJ(6), Pommier 
+Y(10), Ko B(1), Johnson BC(1), Parchhment RE(4), Ivy P(5), Doroshow JH(1)(11), 
+Chen AP(12).
+
+Author information:
+(1)Division of Cancer Treatment and Diagnosis, National Cancer Institute, 
+National Institutes of Health, 31 Center Drive, Building 31, Room 3A44, 
+Bethesda, MD, 20892, USA.
+(2)Knight Cancer Institute, Oregon Health and Science University, Portland, OR, 
+USA.
+(3)Biometric Research Program, NCI, NIH, Bethesda, MD, USA.
+(4)Clinical Pharmacodynamics Biomarker Program, Applied/Developmental Research 
+Directorate, Frederick National Laboratory for Cancer Research, Frederick, MD, 
+USA.
+(5)Cancer Therapeutics Evaluation Program, NCI, NIH, Bethesda, MD, USA.
+(6)UPMC Hillman Cancer Center, Pittsburgh, PA, USA.
+(7)Department of Pharmaceutical Sciences, University of Pittsburgh School of 
+Pharmacy, Pittsburgh, PA, USA.
+(8)Division of Hematology-Oncology, Department of Medicine, University of 
+Pittsburgh School of Medicine, Pittsburgh, PA, USA.
+(9)Biological Testing Branch, NCI, NIH, Frederick, MD, USA.
+(10)Developmental Therapeutics Branch and Laboratory of Molecular Pharmacology, 
+Center for Cancer Research, NCI, NIH, Bethesda, MD, USA.
+(11)Center for Cancer Research, NCI, NIH, Bethesda, MD, USA.
+(12)Division of Cancer Treatment and Diagnosis, National Cancer Institute, 
+National Institutes of Health, 31 Center Drive, Building 31, Room 3A44, 
+Bethesda, MD, 20892, USA. chenali@mail.nih.gov.
+
+PURPOSE: Indenoisoquinolines are a class of topoisomerase I (TOP1) inhibitors 
+designed to overcome clinical limitations of camptothecins. Three 
+indenoisoquinolines (LMP400, LMP776, and LMP744) demonstrated activity in murine 
+models and a comparative canine lymphoma study. Clinical data for LMP400 were 
+previously reported (NCT01051635). The maximum tolerated dose (MTD), safety, and 
+clinical data from phase 1 studies of LMP776 (NCT01051635) and LMP744 
+(NCT03030417) are reported herein.
+METHODS: Patients ≥ 18 years of age with advanced, refractory solid tumors or 
+lymphomas received either LMP776 (n = 34) or LMP744 (n = 35) intravenously 
+following a Simon accelerated titration design. Both LMP776 and LMP744 were 
+administered daily for 5 days (QDx5) in 28-day cycles. Adverse events and 
+clinical responses were evaluated according to CTCAE and RECIST v1.1 criteria, 
+respectively. Pharmacokinetic and pharmacodynamic changes were evaluated.
+RESULTS: The MTD of LMP776 was 12 mg/m2/day and that of LMP744 was 
+190 mg/m2/day. Dose-limiting toxicities (DLTs) for LMP776 included 
+hypercalcemia, anemia, and hyponatremia; DLTs for LMP744 included hypokalemia, 
+anemia, and weight loss. There was 1 confirmed partial response (cPR) among 35 
+patients receiving LMP744 (overall response rate 3%) and no objective responses 
+in patients receiving LMP776. Tumor biopsies from the patient with cPR 
+demonstrated high baseline expression of SLFN11 and a unique pattern of 
+pharmacodynamic responses, including increased RAD51, phosphorylated KAP1 
+(pKAP1), γH2AX, and cleaved caspase-3 (cCasp3).
+CONCLUSION: MTDs and safety profiles are reported for LMP776 and LMP744. Target 
+engagement by an indenoisoquinoline was measured for the first time in human 
+samples.
+
+© 2025. This is a U.S. Government work and not under copyright protection in the 
+US; foreign copyright protection may apply.
+
+DOI: 10.1007/s00280-025-04778-5
+PMCID: PMC12122562
+PMID: 40439882 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: Shivaani 
+Kummar has consultant/advisory roles with Springworks Therapeutics, SeaGen, 
+Bayer, Genome & Company, HarbourBiomed, BPGbio Therapeutics, Oxford 
+Biotherapeutics, Mundibiopharma, BPGbio, Inc., Gilead, Mirati, Fortress Biotech, 
+Inc., GI Innovation, Inc., Xyone Therapeutics, Genome Insight, Aadi Biosciences, 
+MOMA Therapeutics, Daiichi Sankyo, and Pathomiq (co-founder). Other authors 
+declare no potential conflicts of interest.
+
+
+7. Biomolecules. 2024 Apr 19;14(4):495. doi: 10.3390/biom14040495.
+
+Effects of Cannabidiol, ∆9-Tetrahydrocannabinol, and WIN 55-212-22 on the 
+Viability of Canine and Human Non-Hodgkin Lymphoma Cell Lines.
+
+Omer S(1), Pathak S(2), Mansour M(1), Nadar R(2), Bowen D(2), Dhanasekaran M(2), 
+Pondugula SR(1), Boothe D(1).
+
+Author information:
+(1)Department of Anatomy, Physiology & Pharmacology, College of Veterinary 
+Medicine, Auburn University, Auburn, AL 36849, USA.
+(2)Department of Drug Discovery and Development, Harrison School of Pharmacy, 
+Auburn University, Auburn, AL 36849, USA.
+
+In our previous study, we demonstrated the impact of overexpression of CB1 and 
+CB2 cannabinoid receptors and the inhibitory effect of endocannabinoids 
+(2-arachidonoylglycerol (2-AG) and Anandamide (AEA)) on canine (Canis lupus 
+familiaris) and human (Homo sapiens) non-Hodgkin lymphoma (NHL) cell lines' 
+viability compared to cells treated with a vehicle. The purpose of this study 
+was to demonstrate the anti-cancer effects of the phytocannabinoids, cannabidiol 
+(CBD) and ∆9-tetrahydrocannabinol (THC), and the synthetic cannabinoid WIN 
+55-212-22 (WIN) in canine and human lymphoma cell lines and to compare their 
+inhibitory effect to that of endocannabinoids. We used malignant canine B-cell 
+lymphoma (BCL) (1771 and CLB-L1) and T-cell lymphoma (TCL) (CL-1) cell lines, 
+and human BCL cell line (RAMOS). Our cell viability assay results demonstrated, 
+compared to the controls, a biphasic effect (concentration range from 0.5 μM to 
+50 μM) with a significant reduction in cancer viability for both 
+phytocannabinoids and the synthetic cannabinoid. However, the decrease in cell 
+viability in the TCL CL-1 line was limited to CBD. The results of the 
+biochemical analysis using the 1771 BCL cell line revealed a significant 
+increase in markers of oxidative stress, inflammation, and apoptosis, and a 
+decrease in markers of mitochondrial function in cells treated with the 
+exogenous cannabinoids compared to the control. Based on the IC50 values, CBD 
+was the most potent phytocannabinoid in reducing lymphoma cell viability in 
+1771, Ramos, and CL-1. Previously, we demonstrated the endocannabinoid AEA to be 
+more potent than 2-AG. Our study suggests that future studies should use CBD and 
+AEA for further cannabinoid testing as they might reduce tumor burden in 
+malignant NHL of canines and humans.
+
+DOI: 10.3390/biom14040495
+PMCID: PMC11047936
+PMID: 38672512 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no potential conflicts of 
+interest.
+
+
+8. J Craniofac Surg. 2025 Jun 1;36(4):e402-e404. doi: 10.1097/SCS.0000000000010913. 
+Epub 2024 Nov 26.
+
+Unusual Presentation of Oral DLBCL Resembling a Canine Fossa Abscess.
+
+Guzel C(1), Munevveroglu S(1), Arar EE(2), Koçyiğit Daştan H(2).
+
+Author information:
+(1)Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Istanbul 
+Medipol University.
+(2)Graduate School of Health Sciences, School of Dentistry, İstanbul Medipol 
+University, Istanbul, Türkiye.
+
+This report aims to describe a unique case of diffuse large B-cell lymphoma 
+originating from the oral cavity, which presented with symptoms mimicking a 
+canine fossa abscess. It emphasizes the importance of accurate differential 
+diagnosis and appropriate treatment. A 64-year-old female patient visited the 
+authors' clinic with a painful swelling in the left anterior region of the 
+maxilla, persisting for 1 month. Initially, an abscess drainage procedure was 
+performed, accompanied by extraction of the maxillary left canine and parenteral 
+antibiotherapy. However, no improvement was observed during the follow-up 
+appointment after 3 days. An incisional biopsy was then conducted under local 
+anesthesia, leading to a histopathologic diagnosis of diffuse large B-cell 
+lymphoma. The patient is currently under the care of the hematology department 
+and receiving maintenance chemotherapy. Lymphomas occurring in the oral cavity 
+are uncommon and may exhibit non-specific clinical features that resemble benign 
+oral and dental conditions. Therefore, a comprehensive clinical evaluation is 
+necessary to achieve an early and accurate diagnosis, with histopathologic 
+examination being essential for suspicious lesions.
+
+Copyright © 2024 by Mutaz B. Habal, MD.
+
+DOI: 10.1097/SCS.0000000000010913
+PMID: 39591383 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.
+
+
+9. J Vet Intern Med. 2023 Nov-Dec;37(6):2402-2409. doi: 10.1111/jvim.16875. Epub 
+2023 Oct 3.
+
+Individualized chemotherapy drug dose escalation in dogs with multicentric 
+lymphoma.
+
+Siewert JM(1), Gustafson DL(1)(2), Weishaar KM(1), Galloway AM(3), Thamm 
+DH(1)(2).
+
+Author information:
+(1)Flint Animal Cancer Center, Colorado State University, Fort Collins, 
+Colorado, USA.
+(2)University of Colorado Comprehensive Cancer Center, Aurora, Colorado, USA.
+(3)Colorado Animal Specialty & Emergency, Boulder, Colorado, USA.
+
+BACKGROUND: This study was performed to determine the ability to escalate drug 
+doses in a 15-week CHOP protocol in dogs with multicentric lymphoma.
+HYPOTHESIS: We hypothesized that at least 50% of dogs could successfully be 
+escalated in at least 1 drug. Secondary aims were to establish objective 
+response rate (ORR), progression-free interval (PFI), and overall survival time 
+(OST).
+ANIMALS: Thirty dogs with newly diagnosed multicentric lymphoma were 
+prospectively treated with a 15-week CHOP protocol.
+METHODS: This was a prospective cohort study. Drug doses that did not cause 
+dose-limiting adverse effects (AEs) were increased using a standardized 
+escalation protocol. AEs and response were assessed using VCOG criteria. Serial 
+blood samples were collected after the first dose of each drug for 
+pharmacokinetic analysis.
+RESULTS: Of the 23 dogs with the opportunity to dose escalate, at least 1 drug 
+was successfully escalated in 18 (78%). Vincristine was successfully escalated 
+to 0.8 mg/m2 or higher in 11 dogs, cyclophosphamide to 300 mg/m2 or higher in 16 
+dogs, and doxorubicin to 35 mg/m2 or 1.4 mg/kg or higher in 9 dogs. Three of the 
+23 dogs (13%) were hospitalized at least once because of drug-induced AEs. 
+Neutropenia was the most common dose-limiting toxicosis for all drugs. Peak 
+doxorubicin concentrations were significantly lower in dogs where doxorubicin 
+was successfully escalated. The objective response rate was 100%. The median 
+progression free interval was 171 days. The median overall survival time was 
+254 days.
+CONCLUSIONS: Drugs in the CHOP protocol can often be escalated safely with 
+manageable AEs.
+
+© 2023 The Authors. Journal of Veterinary Internal Medicine published by Wiley 
+Periodicals LLC on behalf of American College of Veterinary Internal Medicine.
+
+DOI: 10.1111/jvim.16875
+PMCID: PMC10658528
+PMID: 37787577 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors declare no conflict of interest.
+
+
+10. Zhongguo Xue Xi Chong Bing Fang Zhi Za Zhi. 2025 Mar 18;37(1):93-97. doi: 
+10.16250/j.32.1915.2025044.
+
+[Seroprevalence of antibody against Toxoplasma gondii among patients with 
+hematological malignancies].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Yang Y(1), Wang Q(1), Xiang L(1), Meng Y(1), Zhang C(1), Fu J(1).
+
+Author information:
+(1)Department of Hematology, Xuzhou Central Hospital, Xuzhou, Jiangsu 221009, 
+China.
+
+OBJECTIVE: To investigate the seroprevalence of antibody against Toxoplasma 
+gondii among patients with hematological malignancies, and compare it with that 
+among health individuals, so as to provide insights into unraveling the 
+pathogenesis of hematological malignancies.
+METHODS: A total of 225 patients with hematological malignancies in Department 
+of Hematology, Xuzhou Central Hospital and 300 healthy individuals in the same 
+hospital were enrolled from 2017 to 2024. Blood samples were collected from all 
+subjects, and the serum IgG and IgM antibodies against T. gondii were detected 
+using chemiluminescent immunoassay. Demographic and clinical features were 
+collected from patients with hematological malignancies, including gender, age, 
+contact with cats, consumption of raw or undercooked meat, type of malignancy, 
+clinical symptoms, blood transfusion and treatment, and the seroprevalence of 
+anti-T. gondii antibody was compared among patients with different 
+characteristics.
+RESULTS: The age (t = 0.72, P > 0.05) and gender (χ2 = 0.93, P > 0.05) were 
+compared between patients with hematological malignancies and healthy 
+individuals. The seroprevalence of T. gondii infection was 20.89% among patients 
+with hematological malignancies and 4.33% among healthy individuals (χ2 = 34.81, 
+P < 0.01), and the seroprevalence of anti-T. gondii IgG antibody was 20.89% 
+among patients with hematological malignancies and 4.33% among healthy 
+individuals (χ2 = 34.81, P < 0.01), while there was no significant difference in 
+the seroprevalence of anti-T. gondii IgM antibody between patients with 
+hematological malignancies and healthy individuals (1.33% vs. 0; corrected χ2 = 
+2.02, P > 0.05). The seroprevalence of T. gondii infection was 23.08% among 
+patients with leukemia, 16.67% among patients with lymphoma, 19.23% among 
+patients with multiple myeloma, 24.00% among patients with myeloproliferative 
+neoplasm, and 26.09% among patients with myelodysplastic syndrome (χ2 = 1.44, P 
+> 0.05), and was all higher than among healthy individuals (corrected χ2 = 
+23.92, 10.74, 13.76, 12.84 and 14.54; all P values < 0.01). In addition, there 
+were no significant differences in the detection of anti-T. gondii antibody 
+among patients with hematological malignancies in terms of gender, age, contact 
+with cats, consumption of raw or undercooked meat, chemotherapy or blood 
+transfusion (χ2 = 0.76, 1.97, 0, 2.81, 2.38 and 0.66; all P values > 0.05).
+CONCLUSIONS: There is a high risk of T. gondii infection among patients with 
+hematological malignancies, and intensified surveillance of T. gondii infection 
+is recommended among patients with hematological malignancies.
+
+Publisher: ［摘要］ 目的调查血液系统恶性肿瘤患者刚地弓形虫感染血清学阳性率, 并与健康对照者比较, 从而为揭示血液系统 
+恶性肿瘤发病机制提供新的见解。方法采集2017—2024年徐州市中心医院血液科收治的225例血液系统恶性肿瘤患 者和300例健康体检者血液样本, 
+采用化学发光法检测血清抗弓形虫IgG和IgM抗体。收集患者性别、年龄、猫接触、生 食或食用未煮熟肉类、恶性肿瘤类别、临床症状、输血、治疗等人口学和临床特征, 
+比较不同特征患者弓形虫感染血清学 阳性率。结果血液系统恶性肿瘤患者与健康体检者年龄 (t = 0.72, P > 0.05) 、性别 (χ2 = 0.93, P 
+> 0.05) 差异均无统计学 意义。血液系统恶性肿瘤患者和健康体检者弓形虫感染血清学阳性率分别为20.89%和4.33%, 差异具有统计学意义 (χ2 = 
+34.81, P < 0.01); 两者血清抗弓形虫IgG抗体阳性率分别为20.89%和4.33%, 差异亦有统计学意义 (χ2 = 34.81, P < 
+0.01); 两者血清抗弓形虫IgM抗体阳性率分别为1.33%和0, 差异无统计学意义 (校正χ2 = 2.02, P > 0.05) 。白血病、 
+淋巴瘤、多发性骨髓瘤、骨髓增生性肿瘤和骨髓增生异常综合征患者弓形虫感染血清学阳性率分别为23.08%、16.67%、 19.23%、24.00%和26.09%, 
+差异无统计学意义 (χ2 = 1.44, P > 0.05), 但均显著高于健康体检者 (校正χ2 = 23.92、10.74、 
+13.76、12.84、14.54, P 均< 0.01) 。不同性别、不同年龄、有无猫接触史、是否生食或食用未煮熟肉类、有无化疗、有无输血 
+治疗等特征对血液系统恶性肿瘤患者弓形虫感染血清学阳性率均无显著影响 (χ2 = 0.76、1.97、0.00、2.81、2.38、0.66, P均> 0.05) 
+。结论血液系统恶性肿瘤患者弓形虫感染风险较高, 应加强血液系统恶性肿瘤患者弓形虫感染监测。.
+
+DOI: 10.16250/j.32.1915.2025044
+PMID: 40235383 [Indexed for MEDLINE]
+
+
+11. Vet Comp Oncol. 2024 Mar;22(1):96-105. doi: 10.1111/vco.12957. Epub 2024 Jan 18.
+
+Effect of proteasome inhibitors on canine lymphoma cell response to CHOP 
+chemotherapy in vitro.
+
+Prevedel NE(1), Mee MW(1), Wood GA(2), Coomber BL(1).
+
+Author information:
+(1)Department of Biomedical Sciences, Ontario Veterinary College, University of 
+Guelph, Guelph, Ontario, Canada.
+(2)Department of Pathobiology, Ontario Veterinary College, University of Guelph, 
+Guelph, Ontario, Canada.
+
+The standard treatment for canine lymphoma is the CHOP chemotherapy regimen. 
+Proteasome inhibitors have been employed with CHOP for the treatment of human 
+haematological malignancies but remain to be fully explored in canine lymphoma. 
+We identified an association between poor response to CHOP chemotherapy and high 
+mRNA expression levels of proteasomal subunits in a cohort of 15 canine lymphoma 
+patients, and sought to determine the effect of proteasome inhibitors on the 
+viability of a canine B-cell lymphoma cell line (CLBL-1). The aim of this study 
+was to investigate whether proteasome inhibitors sensitize these cells to the 
+CHOP agents doxorubicin, vincristine and cyclophosphamide (as 
+4-hydroxycyclophosphamide/4-HC). CLBL-1 cells were sensitive to proteasome 
+inhibition by bortezomib and ixazomib. The IC50 of bortezomib was 15.1 nM and of 
+ixazomib was 59.14 nM. Proteasome inhibitors plus doxorubicin had a synergistic 
+effect on CLBL-1 viability; proteosome inhibitors plus vincristine showed 
+different effects depending on the combination ratio, and there was an 
+antagonistic effect with 4-HC. These results may have clinical utility, as 
+proteasome inhibition could potentially be used with a synergizing CHOP compound 
+to improve responsiveness to chemotherapy for canine lymphoma patients.
+
+© 2024 The Authors. Veterinary and Comparative Oncology published by John Wiley 
+& Sons Ltd.
+
+DOI: 10.1111/vco.12957
+PMID: 38237918 [Indexed for MEDLINE]
+
+
+12. Biomed Pharmacother. 2026 Jul;200:119589. doi: 10.1016/j.biopha.2026.119589. 
+Epub 2026 Jun 6.
+
+Methoxy topology controls potency and erythrocyte compatibility of 
+4'-hydroxychalcones: Integrated profiling in two lymphoma-derived cell lines, 
+PBMCs, hemoglobin, and red blood cells.
+
+Cyboran-Mikołajczyk S(1), Dejnaka E(2), Chlipała P(3), Sulecka-Zadka J(2), 
+Kaźmierczak T(1), Mazur M(3), Pawlak A(2), Janeczko T(4).
+
+Author information:
+(1)Wrocław University of Environmental and Life Sciences, Department of Physics 
+and Biophysics, Poland.
+(2)Wrocław University of Environmental and Life Sciences, Faculty of Veterinary 
+Medicine, Department of Pharmacology and Toxicology, Poland.
+(3)Wrocław University of Environmental and Life Sciences, Faculty of 
+Biotechnology and Food Science, Department of Biocatalysis and Food Chemistry, 
+Poland.
+(4)Wrocław University of Environmental and Life Sciences, Faculty of 
+Biotechnology and Food Science, Department of Biocatalysis and Food Chemistry, 
+Poland. Electronic address: janeczko13@interia.pl.
+
+Chalcones are tunable electrophiles whose bioactivity depends on aryl 
+substitution and membrane interactions. We profiled eight 4'-hydroxychalcones 
+with differing in methoxy topology on ring B in primary human PBMCs (24 h, XTT) 
+and canine lymphoma/leukemia cell lines (CLBL-1, CLB70; 72 h, MTT), integrating 
+RBC compatibility assays (hemolysis, morphology, osmotic fragility C50, 
+transmembrane potential, and reduced glutathione), hemoglobin 
+tryptophan-fluorescence quenching, and cell-free antioxidant assays. In canine 
+tumor models, chalcones were more cytotoxic to neoplastic than to normal cells, 
+indicating selectivity. Among them, 3-methoxy-4'-hydroxychalcone showed the most 
+favorable profile, combining strong anticancer activity in CLBL-1 and CLB70 with 
+lower toxicity toward normal cells, whereas 2,5-dimethoxy-4'-hydroxychalcone, 
+although potent, showed a less favorable safety profile. RBC studies revealed 
+marked echinocytosis after 1 h at 100 µM without acute hemolysis and no changes 
+in osmotic resistance, transmembrane potential, or GSH levels. After 24 h, 
+hemolysis was observed only for two compounds at concentrations ≥ 200 µM. Hb 
+quenching was static (Kq above the diffusion limit), with the highest Ksv values 
+for 3-methoxy-4'-hydroxychalcone and 4'-hydroxychalcone, but the highest Kb for 
+3,4,5-trimethoxy-4'-hydroxychalcone, followed by 4'-hydroxychalcone, indicating 
+that fluorophore proximity and complex stability are not directly coupled. DPPH 
+and CUPRAC assays showed no detectable direct antioxidant activity, whereas 
+ABTS•+ revealed weak and comparable radical-scavenging activity across the 
+series. A concise SAR emerged: meta- and ortho/meta-methoxy substitution 
+enhanced biological activity, whereas para-methoxy and 3,4,5-trimethoxy 
+substitution attenuated it; the unsubstituted parent compound retained 
+substantial activity. Overall, methoxy topology shapes both cytotoxicity and 
+interactions with blood components, with 3-methoxy-4'-hydroxychalcone emerging 
+as the most promising lead for early preclinical evaluation.
+
+Copyright © 2026 The Authors. Published by Elsevier Masson SAS.. All rights 
+reserved.
+
+DOI: 10.1016/j.biopha.2026.119589
+PMID: 42250387 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare no competing financial interests or personal relationships that could 
+have influenced the work reported in this paper. All authors have approved the 
+final version of the manuscript and agree with its submission to Biomedicine & 
+Pharmacotherapy.
+
+
+13. Int J Biol Macromol. 2025 Apr;303:140476. doi: 10.1016/j.ijbiomac.2025.140476. 
+Epub 2025 Feb 1.
+
+Biophysical and molecular interactions of enantiomeric piperonal-derived trans 
+β-aryl-δ-iodo-γ-lactones with cancer cell membranes, protein and DNA: 
+Implications for anticancer activity.
+
+Włoch A(1), Sengupta P(2), Szulc N(2), Kral T(3), Pawlak A(4), Henklewska M(4), 
+Pruchnik H(2), Sykora J(5), Hof M(5), Gładkowski W(6).
+
+Author information:
+(1)Department of Physics and Biophysics, Wrocław University of Environmental and 
+Life Sciences, Norwida 25, 50-375 Wrocław, Poland. Electronic address: 
+aleksandra.wloch@upwr.edu.pl.
+(2)Department of Physics and Biophysics, Wrocław University of Environmental and 
+Life Sciences, Norwida 25, 50-375 Wrocław, Poland.
+(3)Department of Physics and Biophysics, Wrocław University of Environmental and 
+Life Sciences, Norwida 25, 50-375 Wrocław, Poland; Department of Biophysical 
+Chemistry, J. Heyrovsky Institute of Physical Chemistry of the Czech Academy of 
+Sciences, Dolejskova 3, 18223 Prague, Czech Republic.
+(4)Department of Pharmacology and Toxicology, Wrocław University of 
+Environmental and Life Sciences, Norwida 31, 50-375 Wrocław, Poland.
+(5)Department of Biophysical Chemistry, J. Heyrovsky Institute of Physical 
+Chemistry of the Czech Academy of Sciences, Dolejskova 3, 18223 Prague, Czech 
+Republic.
+(6)Department of Food Chemistry and Biocatalysis, Wrocław University of 
+Environmental and Life Sciences, Norwida 25, 50-375 Wrocław, Poland.
+
+Developing novel anticancer agents requires understanding their interactions 
+with biological systems at both the cellular and molecular levels. Enantiomeric 
+lactones have demonstrated notable cytotoxic activities against various cancer 
+cell lines. Building on this foundation, we investigated enantiomeric 
+piperonal-derived trans-β-aryl-δ-iodo-γ-lactones ((-)-(4S,5R,6S) and 
+(+)-(4R,5S,6R)), focusing on their impact on cancer cells membrane (Jurkat and 
+GL-1), model membranes, and biomacromolecules such as human serum albumin (HSA) 
+and DNA. Also, the cytotoxicity toward red blood cells and the antitumor 
+activity of the compounds were evaluated against a set of canine lymphoma and/or 
+leukemia cell lines. Membrane interaction studies revealed that both enantiomers 
+interact with the hydrophobic core of lipid bilayers, enhancing lipid acyl chain 
+packing, with the (-)-(4S,5R,6S) isomer showing a stronger impact on membrane 
+fluidity. Comprehensive spectroscopic and theoretical studies revealed distinct 
+stereochemical differences in binding affinities to HSA, where the 
+(-)-(4S,5R,6S) isomer showed higher binding affinity and significant hydrophobic 
+interactions. Detailed biological studies demonstrated that both enantiomers 
+exhibit antiproliferative and proapoptotic activities, with the (-)-(4S,5R,6S) 
+enantiomer showing higher activity. This study underscores the biological 
+activity and interactions of enantiomeric iodolactones derived from piperonal 
+with biomacromolecules, providing comprehensive insights into their biophysical 
+behavior and potential anticancer properties.
+
+Copyright © 2025 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2025.140476
+PMID: 39900147 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+14. J Am Anim Hosp Assoc. 2022 Sep 1;58(5):254-261. doi: 10.5326/JAAHA-MS-7267.
+
+Combined Hypofractionated Radiotherapy and Chemotherapy Versus Hypofractionated 
+Radiotherapy Alone for Cats with Localized Sinonasal Lymphoma.
+
+Goto S(1), Iwasaki R(2), Sakai H(3), Mori T(2).
+
+Author information:
+(1)Animal Medical Center (S.G.), Gifu University, Gifu, Japan.
+(2)From the Laboratory of Veterinary Clinical Oncology (R.I. and T.M.), Gifu 
+University, Gifu, Japan.
+(3)Laboratory of Veterinary Pathology (H.S.), Gifu University, Gifu, Japan.
+
+Despite considering hypofractionated radiotherapy (HRT) a useful treatment 
+option for feline localized sinonasal lymphoma (stage I), the benefits of 
+additional chemotherapy remain controversial. This retrospective cohort study 
+evaluated the efficacy of the early initiation of chemotherapy in combination 
+with HRT (HRTC) to prolong the progression-free survival (PFS) and overall 
+survival (OS) in cats with localized sinonasal lymphoma compared with HRT alone. 
+While 24 eligible cats received HRT alone (HRT group), 18 received HRTC (HRTC 
+group). The total median administered dose was 35 Gy, with one fraction per 
+week, for a median of five fractions. In the HRTC group, the chemotherapy 
+protocol was cyclophosphamide, doxorubicin, vincristine, and prednisolone 
+(CHOP)-based and cyclophosphamide, vincristine, and prednisolone (COP)-based in 
+14 (78%) and 4 cats (22%), respectively. Cats in the HRTC group had 
+significantly longer PFS (677 versus 104 days; P = .04) and OS (983 versus 263 
+days; P = .04) than those in the HRT group. Considering the poor outcome in the 
+HRT group despite the cats having received rescue chemotherapy for progressive 
+disease, the early initiation of additional chemotherapy along with HRT may be 
+recommended for feline localized sinonasal lymphoma.
+
+© 2022 by American Animal Hospital Association.
+
+DOI: 10.5326/JAAHA-MS-7267
+PMID: 36049238 [Indexed for MEDLINE]
+
+
+15. J Small Anim Pract. 2022 Jan;63(1):52-55. doi: 10.1111/jsap.13428. Epub 2021 Oct 
+14.
+
+Cyclophosphamide and prednisolone for chemotherapy naïve B cell multicentric 
+lymphoma in dogs: 32 cases (2017-2021).
+
+Todd J(1), Thomas P(1), Nguyen S(1).
+
+Author information:
+(1)Small Animal Specialist Hospital (SASH), 2 Bounty Close, Tuggerah, NSW, 2259, 
+Australia.
+
+OBJECTIVES: The aim of this study was to characterise the response rate and 
+toxicity profile of cyclophosphamide and prednisolone given to dogs with newly 
+diagnosed, chemotherapy naïve, B cell multicentric lymphoma.
+MATERIALS AND METHODS: Dogs with diagnosed with B cell lymphoma naïve to 
+chemotherapy treatment were prospectively identified at the author's institution 
+(2017 to 2021) and given cyclophosphamide as their initial chemotherapeutic 
+agent in combination with prednisolone with owner's consent. Signalment, 
+laboratory findings, stage, treatment response and toxicity were recorded.
+RESULTS: Thirty-two dogs were included in the study. The overall response rate 
+in this population of dogs was 84%. Twenty dogs (62%) had a partial response, 
+three dogs (9%) had a complete response, four dogs (12%) had stable disease and 
+five dogs (15%) had progressive disease. Side effects were noted in 47% of 
+patients, with neutropaenia being the most commonly reported.
+CLINICAL SIGNIFICANCE: Cyclophosphamide and prednisolone were well-tolerated 
+with limited side effects. The response rate observed in this cohort of dogs 
+with chemotherapy-naïve B cell multicentric lymphoma is promising. Further 
+comparative studies are required to confirm the safety and effectiveness of this 
+intervention.
+
+© 2021 British Small Animal Veterinary Association.
+
+DOI: 10.1111/jsap.13428
+PMID: 34647324 [Indexed for MEDLINE]
+
+
+16. Sci Rep. 2023 Mar 24;13(1):4837. doi: 10.1038/s41598-023-31568-x.
+
+Rabbit derived VL single-domains as promising scaffolds to generate 
+antibody-drug conjugates.
+
+André AS(#)(1)(2), Dias JNR(#)(1)(2), Aguiar S(1)(2), Nogueira S(1)(2), Bule 
+P(1)(2), Carvalho JI(3), António JPM(3), Cavaco M(4), Neves V(4), Oliveira S(5), 
+Vicente G(6), Carrapiço B(1)(2), Braz BS(1)(2), Rütgen B(7), Gano L(8), Correia 
+JDG(8), Castanho M(4), Goncalves J(3), Gois PMP(3), Gil S(1)(2), Tavares 
+L(1)(2), Aires-da-Silva F(9)(10).
+
+Author information:
+(1)CIISA-Centre for Interdisciplinary Research in Animal Health, Faculty of 
+Veterinary Medicine, University of Lisbon, Avenida da Universidade Técnica, 
+1300-477, Lisbon, Portugal.
+(2)Associate Laboratory for Animal and Veterinary Sciences (AL4AnimalS), 
+1300-477, Lisbon, Portugal.
+(3)Research Institute for Medicines (iMed.ULisboa), Faculdade de Farmácia, 
+Universidade de Lisboa, Lisbon, Portugal.
+(4)Instituto de Medicina Molecular-João Lobo Antunes, Faculdade de Medicina, 
+Universidade de Lisboa, Avenida Professor Egas Moniz, 1649-028, Lisboa, 
+Portugal.
+(5)Technophage SA, Avenida Professor Egas Moniz, 1649-028, Lisboa, Portugal.
+(6)Veterinary Teaching Hospital, Faculty of Veterinary Medicine, Universidade de 
+Lisboa, Av. da Universidade Técnica, 1300-477, Lisboa, Portugal.
+(7)Department of Pathobiology, Clinical Pathology Unit, University of Veterinary 
+Medicine, Vienna, Austria.
+(8)Centro de Ciências e Tecnologias Nucleares, Departamento de Engenharia e 
+Ciências Nucleares, IST, Universidade de Lisboa, Estrada Nacional 10, 2695-066, 
+Bobadela LRS, Portugal.
+(9)CIISA-Centre for Interdisciplinary Research in Animal Health, Faculty of 
+Veterinary Medicine, University of Lisbon, Avenida da Universidade Técnica, 
+1300-477, Lisbon, Portugal. fasilva@fmv.ulisboa.pt.
+(10)Associate Laboratory for Animal and Veterinary Sciences (AL4AnimalS), 
+1300-477, Lisbon, Portugal. fasilva@fmv.ulisboa.pt.
+(#)Contributed equally
+
+Antibody-drug conjugates (ADCs) are among the fastest-growing classes of 
+therapeutics in oncology. Although ADCs are in the spotlight, they still present 
+significant engineering challenges. Therefore, there is an urgent need to 
+develop more stable and effective ADCs. Most rabbit light chains have an extra 
+disulfide bridge, that links the variable and constant domains, between Cys80 
+and Cys171, which is not found in the human or mouse. Thus, to develop a new 
+generation of ADCs, we explored the potential of rabbit-derived VL-single-domain 
+antibody scaffolds (sdAbs) to selectively conjugate a payload to Cys80. Hence, a 
+rabbit sdAb library directed towards canine non-Hodgkin lymphoma (cNHL) was 
+subjected to in vitro and in vivo phage display. This allowed the identification 
+of several highly specific VL-sdAbs, including C5, which specifically target 
+cNHL cells in vitro and present promising in vivo tumor uptake. C5 was selected 
+for SN-38 site-selective payload conjugation through its exposed free Cys80 to 
+generate a stable and homogenous C5-DAB-SN-38. C5-DAB-SN-38 exhibited potent 
+cytotoxicity activity against cNHL cells while inhibiting DNA-TopoI activity. 
+Overall, our strategy validates a platform to develop a novel class of ADCs that 
+combines the benefits of rabbit VL-sdAb scaffolds and the canine lymphoma model 
+as a powerful framework for clinically translation of novel therapeutics for 
+cancer.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41598-023-31568-x
+PMCID: PMC10038998
+PMID: 36964198 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors would like to disclose that: FAS, 
+ASA, JD, SIA, SO, LT, JIC, JA and PG have pending patent applications related to 
+the development of ADCs from rabbit derived single-domain antibodies 
+(PCT/IB2022/056303) and ROS-linker sensitive diazaborines (Application number: 
+20211000023853). All other authors have no competing/conflict of interest.
+
+
+17. Cancer Chemother Pharmacol. 2025 Aug 20;95(1):82. doi: 
+10.1007/s00280-025-04803-7.
+
+Biotransformation and disposition of C(14)-labeled sonrotoclax 
+([(14)C]BGB-11417) in preclinical safety species and characterization of unique 
+contribution from gut microbiome.
+
+Cai T(1), Su D(1), Tang Z(2), Liu J(1), Tang W(3), Wu Y(1), Wang F(4).
+
+Author information:
+(1)Department of DMPK-BA, BeOne Medicines (Beijing) Co, Ltd, No.30 Science Park 
+Road Zhong-Guan-Cun Life Science Park, Changping District, Beijing, 102206, PR 
+China.
+(2)Department of Clinical pharmacology & Pharmacometrics, BeOne Medicines USA, 
+Inc, Cambridge, USA.
+(3)TT Consulting LLC, Washington, USA.
+(4)Department of DMPK-BA, BeOne Medicines (Beijing) Co, Ltd, No.30 Science Park 
+Road Zhong-Guan-Cun Life Science Park, Changping District, Beijing, 102206, PR 
+China. fan.wang@beigene.com.
+
+INTRODUCTION: Sonrotoclax (BGB-11417), a second-generation B-cell lymphoma-2 
+(BCL-2) inhibitor currently in clinical development, requires comprehensive 
+verification of its biotransformation and disposition profiles in safety 
+species.
+METHODS: [14C]BGB-11417 was employed to assess its pharmacokinetics, excretion, 
+tissue distribution and metabolite profiles in mice and dogs. Radioactivity in 
+plasma and excreta were analyzed to determine pharmacokinetics and mass balance. 
+The metabolite profiles were generated by the chromatographic separation coupled 
+with radioactivity detector/ mass spectrometry. Quantitative whole-body 
+autoradiography (QWBA) was performed to assess tissue distribution in both 
+pigmented or albino mice. Anaerobic human fecal incubation was conducted to 
+evaluate the biotransformation contribution of gut microbiome.
+RESULTS: Tmax of [14C]BGB-11417 radioactivity was observed at 4 h, with a T1/2 
+ranging 6.5-7.2 h in both species. The highest tissue exposure was noted in 
+metabolic and excretory organs, with 90% of the administered radioactivity 
+eliminated through mouse excreta within 48 h. Prolonged excretion kinetics 
+accompanied by marked inter-individual variability were observed in dog excreta. 
+A distinct nitro-reduction pathway was detected exclusively in dogs. These 
+metabolites were also detected in anaerobic incubations of [14C]BGB-11417 with 
+human feces. Aerobic incubation of the nitro-reduction metabolite with dog feces 
+directly yielded lipid-conjugated products, confirming that conjugation occurs 
+spontaneously post-reduction rather than on the parent drug.
+CONCLUSION: The concordance between dog fecal metabolites and human fecal 
+incubations underscored cross-species gut microbiome similarities. These 
+findings offer a mechanistic insight into the fate of sonrotoclax in organisms 
+and guide the interpretation of metabolic clearance in human.
+
+© 2025. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00280-025-04803-7
+PMID: 40833598 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: No author 
+has an actual or perceived conflict of interest with the contents of this 
+article.
+
+
+18. Med Oncol. 2025 Aug 8;42(9):416. doi: 10.1007/s12032-025-02981-1.
+
+Induction of ER stress-mediated apoptosis in breast cancer cell line by the 
+powerful alkylating agent bendamustine and insights into its molecular 
+mechanisms.
+
+Sankaralingam G(1), Subramaniyan K(2), Ezhilarasi K(3), Umapathy D(4), Rajan 
+Renuka R(5), Jothinathan MD(6), Ramalingam S(7).
+
+Author information:
+(1)Center for Materials Engineering and Regenerative Medicine, Bharath Institute 
+of Research and Higher Education, Chennai, 600073, Tamil Nadu, India.
+(2)Department of Biotechnology, Bharath Institute of Research and Higher 
+Education, Chennai, 600073, Tamil Nadu, India.
+(3)Scudder Memorial Hospital, Ranipet, 632401, Tamil Nadu, India.
+(4)DKM Centre for Research and Innovation, DKM College for Women, Sainathapuram, 
+RV Nagar, Vellore, Tamil Nadu, India.
+(5)Centre for Stem Cell Mediated Advanced Research Therapeutics, Saveetha Dental 
+College and Hospitals, Saveetha Institute of Medical and Technical Sciences 
+(SIMATS), Chennai, 600077, Tamil Nadu, India.
+(6)Department of Biochemistry, Saveetha Medical College and Hospitals, Saveetha 
+Institute of Medical and Technical Sciences, Saveetha University, Chennai, 
+602105, Tamil Nadu, India.
+(7)Department of ENT, Saveetha Medical College and Hospitals, Saveetha Institute 
+of Medical and Technical Sciences, Saveetha University, Chennai, 602105, Tamil 
+Nadu, India. shenbhagaraman@gmail.com.
+
+Bendamustine, an alkylating agent used in treating hematological cancers like 
+non-Hodgkin's lymphoma (NHL) and chronic lymphocytic leukemia (CLL), has 
+recently garnered attention for its potential in breast cancer therapy. This 
+study explores its anticancer effects and molecular mechanisms in breast cancer 
+cells. MDA-MB-231 cells were exposed to various concentrations of bendamustine 
+(0-50 µM), and cytotoxicity was assessed using Alamar Blue and LDH assays, 
+revealing a dose-dependent reduction in cell viability with an IC50 value of 
+16.98 μM at 24 h (p < 0.001). Intracellular reactive oxygen species (ROS) were 
+quantified by DCF-DA flow cytometry, showing a significant elevation following 
+treatment (p < 0.01). Downregulation of major antioxidant enzymes (SOD, CAT, 
+GPx1, GST; p < 0.01) and upregulation of TRPC6 (1.8-fold at 10 μM, 2.5-fold at 
+20 μM; p < 0.01) were detected by qPCR. Markers of apoptosis were evaluated by 
+Annexin V/PI staining, revealing significant increases in both early and late 
+apoptotic cell populations (p < 0.01), and by gene expression analysis showing 
+increased BAX:BCL-2 ratio (1.5-fold at 10 μM, 7.8-fold at 20 μM; p < 0.01). CHOP 
+mRNA, an ER stress-related pro-apoptotic gene, was significantly upregulated 
+(2.5-fold at 20 μM; p < 0.01), supporting activation of the ER stress pathway. 
+The results demonstrated that bendamustine exerted a dose-dependent cytotoxic 
+effect, decreasing cell viability and increasing LDH release. It significantly 
+increased ROS levels and altered the expression of apoptotic genes, promoting 
+apoptosis in breast cancer cells. Furthermore, bendamustine-induced ER stress, 
+shown by upregulated Chop expression, suggests that ER stress plays a role in 
+its anticancer activity. These findings highlight bendamustine as a promising 
+therapeutic agent for breast cancer treatment.
+
+© 2025. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12032-025-02981-1
+PMID: 40779231 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.
+
+
+19. J Biol Chem. 2026 Jun;302(6):111485. doi: 10.1016/j.jbc.2026.111485. Epub 2026 
+Apr 22.
+
+Impact of heme on the therapeutic efficacy of anti-CD20 antibodies.
+
+Marey-Jarossay A(1), Tavares A(1), Lacombe RV(1), Delcourt H(1), Lecerf M(1), 
+Cruz-Aguirre AS(1), Lassouani TH(1), Gilardin L(1), Tareste D(2), Kaveri SV(1), 
+Lacroix-Desmazes S(1), Siberil S(1), Teillaud JL(3), Dimitrov JD(4).
+
+Author information:
+(1)Centre de Recherche des Cordeliers, INSERM, CNRS, Sorbonne Université, 
+Université Paris Cité, Paris, France.
+(2)Institute of Psychiatry and Neuroscience of Paris (IPNP), UMR-S 1266 
+INSERM-Université Paris Cité, Paris, France.
+(3)Centre D'Immunologie et des Maladies Infectieuses-Paris, INSERM UMRS 1135, 
+Faculté de Santé Sorbonne Université, Sorbonne Université, Paris, France.
+(4)Centre de Recherche des Cordeliers, INSERM, CNRS, Sorbonne Université, 
+Université Paris Cité, Paris, France. Electronic address: 
+jordan.dimitrov@sorbonne-universite.fr.
+
+Polyreactivity, the capacity of antibodies to recognize unrelated antigens, is 
+often an undesirable trait in therapeutic antibodies, as it can impair 
+pharmacokinetics and elevate the risk of adverse effects. A growing body of 
+evidence indicates that antibodies can acquire polyreactivity and autoreactivity 
+after transient contact with heme, a byproduct of hemolysis. In our earlier 
+work, we found that nearly 14% of the clinical-stage antibodies are sensitive to 
+heme exposure. Here, we investigated how heme-induced polyreactivity influences 
+the function of anti-CD20 antibodies, focusing on rituximab and CAT 13 (the 
+parental antibody of ublituximab). Using a broad array of approaches, including 
+ELISA, protein microarrays, spectroscopy, surface plasmon resonance, flow 
+cytometry, molecular modeling, cytotoxicity assays, and murine lymphoma models, 
+we demonstrate that rituximab readily acquires polyreactivity upon heme binding. 
+This modification enabled promiscuous interactions with diverse human proteins 
+while leaving recognition of the intended target, CD20, intact. In vitro, 
+complement-dependent cytotoxicity remained unaffected by heme treatment. 
+Mechanistic analyses revealed that heme associates with rituximab at a 
+moderate-affinity site distinct from its CD20 binding interface. Strikingly, 
+however, in vivo experiments showed that systemic heme exposure reduces the 
+therapeutic efficacy of anti-CD20 antibodies. Our findings uncover a 
+context-dependent vulnerability of rituximab and related CD20-targeting 
+antibodies to heme, suggesting that hemolysis and extracellular heme levels may 
+represent overlooked determinants of clinical response in lymphoma treatment.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbc.2026.111485
+PMCID: PMC13214526
+PMID: 42031170 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest The authors declare that 
+they have no conflicts of interests with the contents of this article.
+
+
+20. BMC Res Notes. 2022 Mar 22;15(1):111. doi: 10.1186/s13104-022-06003-5.
+
+RNA-Seq analysis of gene expression in 25 cases of canine lymphoma undergoing 
+CHOP chemotherapy.
+
+Mee MW(1), Faulkner S(1), Wood GA(2), Woods JP(3), Bienzle D(2), Coomber BL(4).
+
+Author information:
+(1)Department of Biomedical Sciences, Ontario Veterinary College, University of 
+Guelph, Guelph, ON, N1G 2W1, Canada.
+(2)Department of Pathobiology, Ontario Veterinary College, University of Guelph, 
+Guelph, ON, N1G 2W1, Canada.
+(3)Department of Clinical Studies and Mona Campbell Centre for Animal Cancer, 
+Ontario Veterinary College, University of Guelph, Guelph, ON, N1G 2W1, Canada.
+(4)Department of Biomedical Sciences, Ontario Veterinary College, University of 
+Guelph, Guelph, ON, N1G 2W1, Canada. bcoomber@uoguelph.ca.
+
+OBJECTIVES: Canine lymphoma, the most common hematological cancer in dogs, 
+shares many molecular and clinical characteristics with human Non-Hodgkin 
+lymphoma (NHL). The standard treatment for canine lymphoma is "CHOP" multiagent 
+chemotherapy protocol consisting of Cyclophosphamide, Doxorubicin 
+(Hydroxydaunorubicin), Vincristine (Oncovin™), and Prednisone. Approximately 
+70-85% of patients treated with CHOP achieve clinical remission. However, 
+duration of remission varies and the majority of dogs eventually relapse. To 
+identify possible biomarkers for patients failing to achieve remission, we 
+performed RNA-Seq analysis on 25 cases of canine lymphoma obtained prior the 
+start of their CHOP therapy regime and assessed gene expression associated with 
+patient progression free survival (PFS).
+DATA DESCRIPTION: The data consists of (1) raw RNA-Seq reads in 75 bp fastq 
+format from fine needle aspirate samples of enlarged lymph nodes from canine 
+patients with naturally occurring lymphoma; (2) Fragments Per Kilobase Million 
+(FPKM) values for each sample; (3) raw transcript counts for each sample; (4) 
+anonymized patient details including PFS; (5) heat map of gene expression and 
+(6) Cox proportional hazard analysis showing significantly expressed genes. 
+These data may be useful for comparative analysis of gene expression in human 
+NHL and analysis of gene expression associated with disease outcome in canine 
+lymphoma.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s13104-022-06003-5
+PMCID: PMC8939155
+PMID: 35317846 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+21. Vet Comp Oncol. 2023 Mar;21(1):20-27. doi: 10.1111/vco.12856. Epub 2022 Sep 14.
+
+Fractionated oral dosing and its effect on cyclophosphamide pharmacokinetics in 
+dogs with high-grade multicentric lymphoma.
+
+Veluvolu S(1), Willcox JL(1)(2), Skorupski KA(1)(2), Al-Nadaf S(1)(2), Rebhun 
+R(1)(2), Wittenburg L(2).
+
+Author information:
+(1)William R Pritchard Veterinary Medical Teaching Hospital, School of 
+Veterinary Medicine, University of California-Davis, Davis, California, USA.
+(2)Department of Surgical and Radiological Sciences, School of Veterinary 
+Medicine, University of California-Davis, Davis, California, USA.
+
+Cyclophosphamide (CP) is an alkylating agent commonly included in multi-drug 
+treatment protocols for canine cancer. As a prodrug, CP requires hepatic 
+metabolism for activation to the intermediate compound 4-hydroxycyclophosphamide 
+(4-OHCP) which then spontaneously forms alkylating phosphoramide mustard. CP is 
+frequently administered in a fractionated manner, with the total dose given over 
+multiple days. CP is reported to cause auto-induction of metabolism in humans, 
+with faster CP clearance and relatively increased 4-OHCP formation following 
+fractionated versus bolus dosing, however canine pharmacokinetic studies of CP 
+dose fractionation are lacking. The study objective was to evaluate the 
+pharmacokinetics of fractionated oral CP dosing at a dose of 200-250 mg/m2 over 
+3 to 4 days in a prospectively identified population of cancer-bearing dogs. 
+Plasma concentrations of CP and 4-OHCP were measured by ultra-high performance 
+liquid chromatography tandem-mass spectrometry in eight dogs following the first 
+and last doses to assess for auto-induction of CP metabolism. No significant 
+difference in the rate of CP elimination between first and last doses were 
+detected (0.73 ± 0.46 vs. 1.22 ± 0.5 h-1 ; p = .125). Additionally, no 
+significant difference in dose-normalized 4-OHCP exposure was identified between 
+first and last doses (5.9 ± 2.1 vs. 7.9 ± 6.4 h × ng/ml; p = .936). These 
+results suggest that fractionated dosing may not increase exposure to the active 
+metabolite of CP in dogs as it does in humans. As such, standard bolus dosing 
+and fractionated dosing may be equivalent in terms of bio-activation of CP in 
+dogs administered a dose of 200-250 mg/m2 .
+
+© 2022 The Authors. Veterinary and Comparative Oncology published by John Wiley 
+& Sons Ltd.
+
+DOI: 10.1111/vco.12856
+PMCID: PMC9928601
+PMID: 36057542 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Declaration: Authors report 
+no conflicts of interest
+
+
+22. Vet Comp Oncol. 2023 Jun;21(2):184-190. doi: 10.1111/vco.12873. Epub 2023 Jan 
+31.
+
+Evaluation of serum interleukin 2 receptor and beta-2-microglobulin as 
+prognostic factors for canine lymphoma: A pilot study.
+
+Im JH(1), Park SM(1), An JH(2), Kim TH(1), Chae HK(1), Oh YI(3), Seo KW(1), Youn 
+HY(1).
+
+Author information:
+(1)Laboratory of Veterinary Internal Medicine, Department of Veterinary Clinical 
+Science, College of Veterinary Medicine, Seoul National University, Seoul, 
+Republic of Korea.
+(2)Department of Veterinary Emergency and Critical Care Medicine and Institute 
+of Veterinary Science, College of Veterinary Medicine, Kangwon National 
+University, Chuncheon-si, Republic of Korea.
+(3)Department of Veterinary Internal Medicine, College of Veterinary Medicine, 
+Kyungpook National University, Daegu, Republic of Korea.
+
+Interleukin 2 receptor (IL-2R) is released from activated T cell lymphocytes and 
+related to proliferation of B cells and T cells. Beta-2-microglobulin (B2M) is 
+synthesized from all nucleated cells and constitutes a major histocompatibility 
+complex class I antigen. In human medicine, high concentrations of these two 
+factors have been found to be related to prognosis in aggressive non-Hodgkin's 
+lymphoma. In this pilot study, we aimed to assess the correlation between the 
+serum concentration of IL-2R and B2M and the diagnosis and prognosis of canine 
+lymphoma. This study included 8 healthy dogs and 17 dogs with lymphoma. To 
+measure the serum concentration of IL-2R and B2M, a commercial enzyme-linked 
+immunosorbent assay was used. In dogs with lymphoma, IL-2R concentrations were 
+significantly high at the time of diagnosis, but B2M concentrations were not. In 
+relapsed dogs, both IL-2R and B2M concentrations were significantly higher than 
+those in the control and chemotherapy response groups. When the serum 
+concentrations of IL-2R and B2M during chemotherapy were monitored in four 
+relapsed dogs, B2M levels were more closely related with relapse. This study 
+demonstrated that serum IL-2R and B2M concentration can be a diagnostic or 
+prognostic tool for canine lymphoma. Monitoring of serum B2M concentration seems 
+to be useful for predicting relapse.
+
+© 2023 John Wiley & Sons Ltd.
+
+DOI: 10.1111/vco.12873
+PMID: 36635848 [Indexed for MEDLINE]
+
+
+23. Res Vet Sci. 2024 Mar;169:105174. doi: 10.1016/j.rvsc.2024.105174. Epub 2024 Feb 
+6.
+
+Blockade of isoprenoids biosynthesis by simvastatin induces autophagy-mediated 
+cell death via downstream c-Jun N-terminal kinase activation and cell cycle 
+dysregulation in canine T-cell lymphoma cells.
+
+Kobayashi K(1), Baba K(2), Kambayashi S(3), Okuda M(3).
+
+Author information:
+(1)Laboratory of Veterinary Internal Medicine, The United Graduate School of 
+Veterinary Science, Yamaguchi University, 1677-1 Yoshida, Yamaguchi 753-8511, 
+Japan.
+(2)Laboratory of Veterinary Internal Medicine, The United Graduate School of 
+Veterinary Science, Yamaguchi University, 1677-1 Yoshida, Yamaguchi 753-8511, 
+Japan; Laboratory of Veterinary Internal Medicine, Joint Faculty of Veterinary 
+Medicine, Yamaguchi University, 1677-1, Yoshida, Yamaguchi 753-8511, Japan. 
+Electronic address: kbaba@yamaguchi-u.ac.jp.
+(3)Laboratory of Veterinary Internal Medicine, The United Graduate School of 
+Veterinary Science, Yamaguchi University, 1677-1 Yoshida, Yamaguchi 753-8511, 
+Japan; Laboratory of Veterinary Internal Medicine, Joint Faculty of Veterinary 
+Medicine, Yamaguchi University, 1677-1, Yoshida, Yamaguchi 753-8511, Japan.
+
+Statins are inhibitors of the mevalonic acid pathway that mediates cellular 
+metabolism by producing cholesterol and isoprenoids and are widely used in 
+treating hypercholesterolaemia in humans. Lipophilic statins, including 
+simvastatin, induce death in various tumour cells. However, the cytotoxic 
+mechanisms of statins in tumour cells remain largely unexplored. This study 
+aimed to elucidate the cytotoxic mechanisms of simvastatin in canine lymphoma 
+cells. Simvastatin induced cell death via c-Jun N-terminal kinase (JNK) 
+activation and autophagy in canine T-cell lymphoma cell lines Ema and UL-1, but 
+not in B-cell lines. Cell death was mediated by induction of caspase-dependent 
+apoptosis in UL-1 cells, but not in Ema cells. Blockade of autophagy by 
+lysosomal inhibitors attenuated simvastatin-induced JNK activation and cell 
+death. Isoprenoids, including farnesyl pyrophosphate and geranylgeranyl 
+pyrophosphate, attenuated simvastatin-induced autophagy, JNK activation, and 
+cell death. In UL-1 cells, simvastatin treatment resulted in the cell cycle 
+arrest at the G2/M phase, which was altered to G0/1 phase cell cycle arrest by 
+treatment with lysosomal inhibitors. These findings demonstrate that depletion 
+of isoprenoids by simvastatin induces autophagy-mediated cell death via 
+downstream JNK activation and cell cycle dysregulation in canine T-cell lymphoma 
+cells.
+
+Copyright © 2024 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.rvsc.2024.105174
+PMID: 38340381 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no conflict of interest.
+
+
+24. PLoS One. 2023 Aug 25;18(8):e0290428. doi: 10.1371/journal.pone.0290428. 
+eCollection 2023.
+
+Baseline tumor gene expression signatures correlate with chemoimmunotherapy 
+treatment responsiveness in canine B cell lymphoma.
+
+Dittrich K(1), Yıldız-Altay Ü(2), Qutab F(2), Kwong DA(2), Rao Z(2), 
+Nievez-Lozano SA(2), Gardner HL(1), Richmond JM(2), London CA(1).
+
+Author information:
+(1)Cummings School of Veterinary Medicine at Tufts University, North Grafton, 
+MA, United States of America.
+(2)UMass Chan Medical School, Worcester, MA, United States of America.
+
+Pet dogs develop spontaneous diffuse large B cell lymphoma (DLBCL), and 
+veterinary clinical trials have been employed to treat canine DLBCL and to 
+inform clinical trials for their human companions. A challenge that remains is 
+selection of treatment to improve outcomes. The dogs in this study were part of 
+a larger clinical trial evaluating the use of combinations of doxorubicin 
+chemotherapy, anti-CD20 monoclonal antibody, and one of three small molecule 
+inhibitors: KPT-9274, TAK-981, or RV1001. We hypothesized that significant 
+differential expression of genes (DEGs) in the tumors at baseline could help 
+predict which dogs would respond better to each treatment based on the molecular 
+pathways targeted by each drug. To this end, we evaluated gene expression in 
+lymph node aspirates from 18 trial dogs using the NanoString nCounter Canine 
+Immuno-oncology (IO) Panel. We defined good responders as those who relapsed 
+after 90 days, and poor responders as those who relapsed prior to 90 days. We 
+analyzed all dogs at baseline and compared poor responders to good responders, 
+and found increased CCND3 correlated with poor prognosis and increased CD36 
+correlated with good prognosis, as is observed in humans. There was minimal DEG 
+overlap between treatment arms, prompting separate analyses for each treatment 
+cohort. Increased CREBBP and CDKN1A for KPT-9274, increased TLR3 for TAK-981, 
+and increased PI3Kδ, AKT3, and PTEN, and decreased NRAS for RV1001 were 
+associated with better prognoses. Trends for selected candidate biomarker genes 
+were confirmed via qPCR. Our findings emphasize the heterogeneity in DLBCL, 
+similarities and differences between canine and human DLBCL, and ultimately 
+identify biomarkers that may help guide the choice of chemoimmunotherapy 
+treatment in dogs.
+
+Copyright: © 2023 Dittrich et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0290428
+PMCID: PMC10456153
+PMID: 37624862 [Indexed for MEDLINE]
+
+Conflict of interest statement: JMR is an inventor on a use patent filed for 
+“Diagnosis of skin conditions in veterinary and human patients” for CTCL; and on 
+use patents for targeting CXCR3 (0#15/851,651) and IL15 (# 62489191) for the 
+treatment of vitiligo. CAL received Grant/Research Support and Consulting 
+Engagements from Fidocure. This does not alter our adherence to PLOS ONE 
+policies on sharing data and materials.
+
+
+25. J Vet Intern Med. 2023 Nov-Dec;37(6):2368-2374. doi: 10.1111/jvim.16840. Epub 
+2023 Sep 12.
+
+Long-term remission and survival in dogs with high-grade, B cell lymphoma 
+treated with chemotherapy with or without sequential low-dose rate half-body 
+irradiation.
+
+Best MP(1), Straw RC(2)(3), Gumpel E(4), Fry DR(2).
+
+Author information:
+(1)Eastcott Referrals, Swindon, United Kingdom.
+(2)Brisbane Veterinary Specialist Centre, Brisbane, Queensland, Australia.
+(3)The Australian Animal Cancer Foundation, Albany Creek, Queensland, Australia.
+(4)Small Animal Specialist Hospital, North Ryde, New South Wales, Australia.
+
+BACKGROUND: Standard of care for dogs with high-grade lymphoma, multiagent 
+chemotherapy, achieves good initial responses but long-term remissions are 
+infrequent; previous studies using half-body irradiation suggest improved 
+long-term outcomes.
+HYPOTHESIS: The addition of low-dose rate half-body irradiation would improve 
+outcomes in dogs with B-cell lymphoma.
+ANIMALS: Client-owned dogs with stage III or higher, substage a, B-cell lymphoma 
+that achieved complete remission after 4 doses of multiagent chemotherapy.
+METHODS: A case-controlled design comparing 2-year remission and survival rates 
+between dogs treated with CHOP-based chemotherapy and those treated with 
+chemotherapy and sequential low-dose rate half-body irradiation.
+RESULTS: Thirty-eight dogs were enrolled with 18 included in final analysis, 9 
+prospectively-enrolled dogs and 9 case-matched historical controls. The 
+irradiation cohort's 2-year disease-free rate was 56% whereas median duration 
+exceeded the 730-day study period compared with 0% and 261 days in the 
+chemotherapy only group. Remission duration significantly differed between 
+cohorts (P < .01), hazard ratio 0.218 (95% CI: 0.06-0.77). The irradiation 
+cohort's 2-year survival rate was 78% with median overall survival duration 
+exceeding the 730 day study period compared with 11% and 286 days in the 
+chemotherapy only group. Overall survival time significantly differed between 
+cohorts (P < .02), hazard ratio 0.173 (95% CI: 0.03-0.839).
+CONCLUSIONS AND CLINICAL IMPORTANCE: The improved long-term outcome achieved by 
+dogs administered sequential low-dose rate half-body irradiation in this study 
+is similar to previous observational studies. Where long-term remission is 
+sought in dogs with B-cell lymphoma low-dose rate half-body irradiation could be 
+considered in addition to standard chemotherapy.
+
+© 2023 The Authors. Journal of Veterinary Internal Medicine published by Wiley 
+Periodicals LLC. on behalf of the American College of Veterinary Internal 
+Medicine.
+
+DOI: 10.1111/jvim.16840
+PMCID: PMC10658474
+PMID: 37700548 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors declare no conflict of interest.
+
+
+26. Vet Comp Oncol. 2025 Sep;23(3):412-423. doi: 10.1111/vco.13066. Epub 2025 May 
+16.
+
+Potent Therapeutic Activity of NEO212 in Preclinical Models of Human and Canine 
+Leukaemia and Lymphoma.
+
+Chen TC(1)(2)(3), Swenson S(1), Thein TZ(1), Minea RO(1)(2), Schönthal AH(4).
+
+Author information:
+(1)Department of Neurosurgery, Keck School of Medicine, University of Southern 
+California (USC), Los Angeles, California, USA.
+(2)USC/Norris Comprehensive Cancer Center, Los Angeles, California, USA.
+(3)NeOnc Technologies, Inc., Westlake Village, California, USA.
+(4)Department of Molecular Microbiology and Immunology, Keck School of Medicine, 
+USC, Los Angeles, California, USA.
+
+Haematological cancer types, such as leukaemia and lymphoma, represent diseases 
+that are life-threatening to canine and human patients alike, and better 
+treatments are needed. We are developing a novel anticancer agent, NEO212, a 
+conjugate of two cancer drugs, the alkylating agent temozolomide (TMZ) and the 
+monoterpene perillyl alcohol (POH). NEO212 has revealed robust therapeutic 
+activity in preclinical tumour models harbouring different human cancer types. 
+In the comparative preclinical study presented here, a two-species (canine and 
+human) and two-cancer (leukaemia and lymphoma) analysis was performed to 
+determine whether the promising therapeutic activity of NEO212 would span 
+species and cancer types. We investigated the activity of NEO212 in human and 
+canine leukaemia and lymphoma cell lines in vitro and in corresponding mouse 
+models in vivo. Our results show that in vitro NEO212 is significantly more 
+potent than TMZ and POH in all cell lines and exerts activity even against 
+strongly TMZ-resistant tumour cells. In vivo, oral NEO212 strikingly extends the 
+survival of mice harbouring human or canine leukaemia or lymphoma cells. At the 
+same time, NEO212 is well tolerated in dogs at dosages higher than those that 
+achieved therapeutic activity in mouse models. Our study introduces NEO212 as a 
+novel oral cancer drug candidate for both human and veterinary oncology 
+applications.
+
+© 2025 The Author(s). Veterinary and Comparative Oncology published by John 
+Wiley & Sons Ltd.
+
+DOI: 10.1111/vco.13066
+PMCID: PMC12378078
+PMID: 40377133 [Indexed for MEDLINE]
+
+Conflict of interest statement: Thomas C. Chen is the founder, officer, and 
+shareholder of NeOnc Technologies Inc. The other authors declare no conflicts of 
+interest.
+
+
+27. Oral Oncol. 2022 Jan;124:105498. doi: 10.1016/j.oraloncology.2021.105498. Epub 
+2021 Aug 20.
+
+Oral epithelioid rhabdomyosarcoma: Report of a rare case and literature review 
+of a distinct variant of rhabdomyosarcoma.
+
+Rodrigues-Fernandes CI(1), Sánchez-Romero C(2), de Almeida OP(3), Alves FA(4), 
+Carvalho EJA(5), de Castro JFL(5), Perez DEDC(5).
+
+Author information:
+(1)Department of Oral Diagnosis, Semiology and Pathology Areas, Piracicaba 
+Dental School, University of Campinas, Piracicaba, São Paulo, Brazil. Electronic 
+address: carla.rodrigues212@gmail.com.
+(2)Department of Oral Diagnosis, Semiology and Pathology Areas, Piracicaba 
+Dental School, University of Campinas, Piracicaba, São Paulo, Brazil; Department 
+of Research, School of Dentistry, Universidad Juárez del Estado de Durango, 
+Durango, Mexico.
+(3)Department of Oral Diagnosis, Semiology and Pathology Areas, Piracicaba 
+Dental School, University of Campinas, Piracicaba, São Paulo, Brazil.
+(4)Department of Stomatology, A. C. Camargo Cancer Center São Paulo, São Paulo, 
+Brazil.
+(5)Oral Pathology Unit, Department of Clinic and Preventive Dentistry, 
+Universidade Federal de Pernambuco, Recife, Pernambuco, Brazil.
+
+Epithelioid rhabdomyosarcoma is a new and rare morphological variant of 
+rhabdomyosarcoma, with only a few reports in the literature. We aimed to 
+describe an atypical case of this variant involving the oral cavity. A 
+33-year-old male patient presented with an asymptomatic, gingival mass adjacent 
+to the left maxillary canine with progressive growth over approximately 
+3 months. Microscopic and immunohistochemical assessment of the biopsy specimen 
+were consistent with epithelioid rhabdomyosarcoma. After initial chemotherapy 
+and radiotherapy, the patient had a partial response. Surgical resection was 
+performed, followed by adjuvant chemotherapy. After local and distant 
+recurrences, the patient died 22 months after the initial diagnosis. According 
+to the literature, epithelioid rhabdomyosarcoma still lacks data regarding its 
+aetiologic factors and therapeutic options. Whether this tumour is a true 
+subtype or simply a variant of other subtypes of rhabdomyosarcoma also remains 
+unconfirmed. Final diagnosis leads to a broad array of microscopic and 
+immunohistochemical analyses.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2021.105498
+PMID: 34426069 [Indexed for MEDLINE]
+
+
+28. Org Biomol Chem. 2026 Aug 26;24(33):6806-6819. doi: 10.1039/d6ob00923a.
+
+B-ring methoxy substitution modulates flavokawain membrane interactions and 
+cytotoxicity.
+
+Strugała-Danak P(1), Dejnaka E(2), Chlipała P(3), Dudek A(1), Pruchnik H(1), 
+Sulecka-Zadka J(2), Motykiewicz-Pers K(2), Pawlak A(2), Obmińska-Mrukowicz B(2), 
+Janeczko T(3).
+
+Author information:
+(1)Wrocław University of Environmental and Life Sciences, Department of Physics 
+and Biophysics, Norwida 25, 50-375 Wrocław, Poland. 
+paulina.strugala@upwr.edu.pl.
+(2)Wrocław University of Environmental and Life Sciences, Faculty of Veterinary 
+Medicine, Department of Pharmacology and Toxicology, Norwida 25, 50-375 Wrocław, 
+Poland.
+(3)Wrocław University of Environmental and Life Sciences, Faculty of 
+Biotechnology and Food Science, Department of Food Chemistry and Biocatalysis, 
+Norwida 25, 50-375 Wrocław, Poland. tomasz.janeczko@upwr.edu.pl.
+
+Flavokawains are naturally occurring chalcone derivatives from Piper methysticum 
+with promising pharmacological properties. This study investigated the 
+biological and physicochemical characteristics of five flavokawain derivatives 
+(A1-A5) differing in B-ring methoxy substitution patterns to elucidate 
+structure-activity relationships. All derivatives exhibited low hemolytic 
+activity toward human erythrocytes, indicating minimal cytotoxicity to red blood 
+cells. Membrane interaction studies using fluorescent probes suggest 
+preferential partitioning toward the hydrophobic core, inducing 
+concentration-dependent rigidification, with effects most pronounced for 
+mono-methoxy derivatives (A2, A3) and diminished for di-methoxy compounds (A4, 
+A5). Dynamic light scattering analyses showed that A1-A3 did not markedly change 
+liposome size or PDI, whereas A4 and A5 increased vesicle size and 
+polydispersity, suggesting stronger membrane perturbation and/or possible 
+aggregation-related effects. Human serum albumin (HSA) binding assays showed 
+that all derivatives formed stable complexes, with binding affinity strongly 
+dependent on the B-ring methoxy substitution pattern. Cytotoxicity assays using 
+canine B-cell leukemia (CLB70) and lymphoma (CLBL-1) cell lines revealed 
+concentration-dependent effects, with flavokawain B (A1) and 
+2-methoxy-flavokawain B (A2) displaying the strongest cytotoxic activity (IC50 ≈ 
+8-16 μM). However, these compounds also showed limited selectivity toward 
+malignant versus non-malignant canine cell lines under the tested conditions. 
+Overall, the results identify B-ring substitution as a key determinant of 
+membrane interactions, albumin binding, and cellular response, and provide a 
+basis for further structural optimization of flavokawain derivatives with 
+improved selectivity.
+
+DOI: 10.1039/d6ob00923a
+PMID: 42554222 [Indexed for MEDLINE]
+
+
+29. J Am Vet Med Assoc. 2023 Nov 3;262(3):1-9. doi: 10.2460/javma.23.07.0389. Print 
+2024 Mar 1.
+
+Suspected primary bone marrow T-cell lymphoid neoplasia causing paraneoplastic 
+hypercalcemia in 11 dogs (2014-2021).
+
+Portanova A(1), Rout ED(2), Avery AC(2), Viall AK(3).
+
+Author information:
+(1)1Department of Veterinary Clinical Sciences, College of Veterinary Medicine, 
+Iowa State University, Ames, IA.
+(2)2Department of Microbiology, Immunology, and Pathology, College of Veterinary 
+Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO.
+(3)3Department of Pathology, Microbiology, and Immunology, School of Veterinary 
+Medicine, University of California-Davis, Davis, CA.
+
+OBJECTIVE: To describe the clinical findings and outcome in hypercalcemic dogs 
+that were diagnosed with T-cell lymphoid neoplasia by bone marrow evaluation.
+ANIMALS: 11 client-owned dogs, identified retrospectively through 2 diagnostic 
+laboratories between 2014 and 2021.
+CLINICAL PRESENTATION: Cases presented with hypercalcemia and lacked overt 
+evidence of lymphoid neoplasia in the blood or nonmedullary tissues. T-cell 
+lymphoid neoplasia was diagnosed once the bone marrow was investigated, using a 
+variable combination of cytology, histology, and flow cytometry.
+RESULTS: The median age at presentation was 5.7 years (range, 4.0 to 8.6 years). 
+All cases were large-breed dogs, and 4 of 11 cases were Golden Retrievers. Dogs 
+presented most commonly for polyuria and polydipsia (72%). Eight cases had 
+neutropenia, and 10 of 11 dogs had reported thrombocytopenia. In all cases, flow 
+cytometry identified an expansion of neoplastic small- to intermediate-sized T 
+cells in the bone marrow that expressed low-class-II major histocompatibility 
+complex. Neoplastic T cells in 10 of 11 cases expressed CD4. Treatments ranged 
+from prednisone alone to multiagent chemotherapy. The median overall survival 
+time was 260 days (range, 25 to 792 days).
+CLINICAL RELEVANCE: T-cell lymphoid neoplasia diagnosed via bone marrow 
+evaluation that may represent a unique bone marrow T-cell neoplastic entity 
+should be considered in hypercalcemic dogs with isolated cytopenias that lack 
+peripheral lymphocytosis, lymphadenopathy, and organomegaly. Clinical outcome in 
+these cases was variable, which may be related to nonstandardized treatments, 
+but a subset of patients had prolonged survival.
+
+DOI: 10.2460/javma.23.07.0389
+PMID: 37922707 [Indexed for MEDLINE]
+
+
+30. Res Vet Sci. 2022 Jul;145:213-221. doi: 10.1016/j.rvsc.2022.02.019. Epub 2022 
+Feb 23.
+
+Serum TK1 protein and C-reactive protein correlate to treatment response and 
+predict survival in dogs with hematologic malignancies.
+
+Saellström S(1), Sharif H(2), Jagarlamudi KK(3), Rönnberg H(4), Wang L(3), 
+Eriksson S(2).
+
+Author information:
+(1)University Animal Hospital, Swedish University of Agricultural Sciences, P.O. 
+Box 7040, SE-750 07 Uppsala, Sweden; Department of Oncology, Faculty of Medicine 
+Clinicum, University of Helsinki, Haartmaninkatu 8, Helsinki, Finland. 
+Electronic address: sara.saellstrom@uds.slu.se.
+(2)Department of Anatomy, Physiology, and Biochemistry, Faculty of Veterinary 
+Medicine and Animal Sciences, Swedish University of Agricultural Sciences, 
+Biomedical Center, P.O. Box 575, SE-75123 Uppsala, Sweden; Alertix Veterinary 
+Diagnostics AB, SE-392 30 Kalmar, Sweden.
+(3)Department of Anatomy, Physiology, and Biochemistry, Faculty of Veterinary 
+Medicine and Animal Sciences, Swedish University of Agricultural Sciences, 
+Biomedical Center, P.O. Box 575, SE-75123 Uppsala, Sweden.
+(4)SLU Center of Clinical Comparative Oncology (C(3)O), Department of Clinical 
+Sciences, Faculty of Veterinary Medicine and Animal Sciences, Swedish University 
+of Agricultural Sciences, P.O. Box 7054, SE-750 07 Uppsala, Sweden.
+
+Thymidine kinase 1 (TK1), involved in DNA precursor synthesis, is used as a 
+serum biomarker in cancer diagnostics in both human and veterinary medicine. We 
+investigated the utility of serum TK1 protein (TK1p) and TK1 activity (TK1a) 
+determinations for prognosis and monitoring of canine hematological 
+malignancies. The combination of TK1p or TK1a with canine C-reactive protein 
+(CRP) determinations was also investigated. Serum samples from 51 client-owned 
+dogs with naive hematological malignancies and from 149 healthy subjects were 
+included. Serum TK1p levels were determined using a prototype TK1-ELISA, TK1a 
+using the [3H]-dThd phosphorylation assay, and CRP using an immunoturbidimetric 
+assay. Mean TK1p in sera from dogs with tumors was significantly higher than 
+from healthy dogs (mean ± SD = 3.9 ± 5.9 vs. 0.45 ± 0.15 ng/mL). Similarly, TK1a 
+in hematological malignancies was significantly higher than in healthy dogs 
+(mean ± SD = 15.1 ± 31.3 vs. 0.96 ± 0.33 pmol/min/mL). The receiver-operating 
+characteristic indicated that a combination of TK1p or TK1a with CRP gave higher 
+sensitivity than either biomarker alone for the prognosis of hematological 
+malignancies. Median pretreatment TK1p and TK1a levels were significantly higher 
+than in dogs in remission and correlated with clinical outcome. Kaplan-Meier 
+curve analysis showed that naive dogs with high TK1p, TK1a, and CRP had 
+significantly shorter survival. This study present two new polyclonal antibodies 
+used in an ELISA system to determine TK1p. The study also show that combining 
+TK1p or TK1a with CRP gave higher sensitivity than either biomarker alone. 
+Monitoring patients in the study while undergoing chemotherapy, suggests that 
+the TK1 + CRP combination could be useful in a biomarker panel, possibly aiding 
+the prognosis and therapy monitoring of hematological malignancies in dogs.
+
+Copyright © 2022 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.rvsc.2022.02.019
+PMID: 35245727 [Indexed for MEDLINE]
+
+
+31. J Vet Intern Med. 2024 Jan-Feb;38(1):316-325. doi: 10.1111/jvim.16931. Epub 2023 
+Dec 19.
+
+Use of genome-wide DNA methylation analysis to identify prognostic CpG site 
+markers associated with longer survival time in dogs with multicentric 
+high-grade B-cell lymphoma.
+
+Teoh YB(1)(2), Ishizaki T(3), Kagawa Y(3), Yokoyama S(1)(2), Jelinek J(4), 
+Matsumoto Y(5), Tomiyasu H(6), Tsujimoto H(7), Takiguchi M(2)(8), Yamazaki 
+J(1)(2).
+
+Author information:
+(1)Translational Research Unit, Veterinary Teaching Hospital, Graduate School of 
+Veterinary Medicine, Hokkaido University, Sapporo, Hokkaido, Japan.
+(2)One Health Research Center, Hokkaido University, Sapporo, Hokkaido, Japan.
+(3)North Lab, Sapporo, Hokkaido, Japan.
+(4)Coriell Institute for Medical Research, Camden, New Jersey, USA.
+(5)Anicom Specialty Medical Institute Inc, Tokyo, Japan.
+(6)Laboratory of Veterinary Internal Medicine, University of Tokyo, Tokyo, 
+Japan.
+(7)Japan Animal Referral Medical Center (JARMeC), Kawasaki, Kanagawa, Japan.
+(8)Laboratory of Veterinary Internal Medicine, Hokkaido University, Sapporo, 
+Hokkaido, Japan.
+
+BACKGROUND: DNA methylation analysis might identify prognostic CpG sites in 
+CHOP-treated dogs with multicentric high-grade B-cell lymphoma (MHGL) with 
+heterogenous prognosis.
+OBJECTIVE: To identify prognostic CpG sites of MHGL through genome-wide DNA 
+methylation analysis with pyrosequencing validation.
+ANIMALS: Test group: 24 dogs. Validation group: 100 dogs. All client-owned dogs 
+were diagnosed with MHGL and treated with CHOP chemotherapy.
+METHODS: Cohort study. DNA was extracted from lymph node samples obtained via 
+FNA. Genome-wide DNA methylation analysis using Digital Restriction Enzyme 
+Analysis of Methylation (DREAM) was performed on the test group to identify 
+differentially methylated CpG sites (DMCs). Bisulfite pyrosequencing was used to 
+measure methylation status of candidate DMCs in the validation group. Median 
+survival times (MST) were analyzed using Kaplan-Meier (log-rank) product limit 
+method.
+RESULTS: DREAM analyzed 101 576 CpG sites. Hierarchical clustering of 16 262 CpG 
+sites in test group identified group with better prognosis (MST = 55-477 days vs 
+10-301 days, P = .007). Volcano plot identified 1371 differentially methylated 
+CpG sites (DMCs). DMC near the genes of FAM213A (DMC-F) and PHLPP1 (DMC-P) were 
+selected as candidates. Bisulfite-pyrosequencing performed on validation group 
+showed group with methylation level of DMC-F < 40% had favorable prognosis 
+(MST = 11-1072 days vs 8-1792 days, P = .01), whereas group with the methylation 
+level combination of DMC-F < 40% plus DMC-P < 10% had excellent prognosis 
+(MST = 18-1072 days vs 8-1792 days, P = .009).
+CONCLUSION AND CLINICAL IMPORTANCE: Methylation status of prognostic CpG sites 
+delineate canine MGHL cases with longer MST, providing owners with information 
+on expectations of potential improved treatment outcomes.
+
+© 2023 The Authors. Journal of Veterinary Internal Medicine published by Wiley 
+Periodicals LLC on behalf of American College of Veterinary Internal Medicine.
+
+DOI: 10.1111/jvim.16931
+PMCID: PMC10800228
+PMID: 38115210 [Indexed for MEDLINE]
+
+Conflict of interest statement: A patent application has been submitted 
+(PCT/JP2022/045551).
+
+
+32. J Cancer Res Clin Oncol. 2023 Dec;149(20):17771-17780. doi: 
+10.1007/s00432-023-05475-7. Epub 2023 Nov 7.
+
+Assessing the risk of venous thromboembolism in patients with haematological 
+cancers using three prediction models.
+
+El-Sayed HA(1), Othman M(2)(3)(4), Azzam H(1), Bucciol R(5), Ebrahim MA(6), 
+El-Agdar MAMA(6), Tera Y(1)(5), Sakr DH(6), Ghoneim HR(1), Selim TE(1).
+
+Author information:
+(1)Clinical Pathology Department, Faculty of Medicine, Mansoura University, 
+Mansoura, Egypt.
+(2)Clinical Pathology Department, Faculty of Medicine, Mansoura University, 
+Mansoura, Egypt. Othman@queensu.ca.
+(3)Department of Biomedical and Molecular Sciences, School of Medicine, Queen's 
+University, Kingston, ON, Canada. Othman@queensu.ca.
+(4)School of Baccalaureate Nursing, St Lawrence College, Kingston, ON, Canada. 
+Othman@queensu.ca.
+(5)Department of Biomedical and Molecular Sciences, School of Medicine, Queen's 
+University, Kingston, ON, Canada.
+(6)Oncology Department, Faculty of Medicine, Mansoura University, Mansoura, 
+Egypt.
+
+PURPOSE: Assessment of individual VTE risk in cancer patients prior to 
+chemotherapy is critical for determining necessity of interventions. Risk 
+assessment models (RAM) are available but have not been validated for 
+haematological malignancy. We aimed to assess the validity of the Vienna Cancer 
+and Thrombosis Study (V-CATS) score in prediction of VTE in a variety of 
+haematological malignancies.
+METHODS: This is a prospective cohort study conducted on 81 newly diagnosed 
+cancer patients undergoing chemotherapy. Demographic, clinical and cancer 
+related data were collected, patients were followed up for 6 months, and VTE 
+events were recorded. Khorana score (KS) was calculated. Plasma D-dimer and 
+sP-selectin were measured, and then, V-CATS score was calculated. Receiver 
+operator curve (ROC) was used to assess the sensitivity and specificity of RAMs. 
+A modified V-CATS was generated and subsequently assessed by using new cut-off 
+levels of d-dimer and sP-selectin based on ROC curve of the patients' results 
+and compared the probability of VTE occurrence using all three RAMs.
+RESULTS: Among the 81 patients included in this study, a total of 2.7% were 
+diagnosed with advanced metastatic cancer. The most frequent cancer was 
+non-Hodgkin lymphoma (39.5%), and 8 patients (9.8%) developed VTE events. The 
+calculated probability of VTE occurrence using KS, V-CATS and modified V-CATS 
+scores at cut-off levels ≥ 3 was 87.5%, 87.5% and 100%, respectively. The AUC in 
+ROC curve of modified Vienna CATS score showed significant difference when 
+compared to that of V-CATS and KS (P = 0.047 and 0.029, respectively).
+CONCLUSION: The findings of our study highlight the value of three VTE risk 
+assessment models in haematological malignancies. The modified V-CATS score 
+demonstrated higher specificity compared to both V-CATS and KS, while all three 
+scores exhibited similar sensitivity. We encourage the implementation of RAMs in 
+haematological cancers for an appropriate use of thromboprophylaxis.
+
+© 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00432-023-05475-7
+PMCID: PMC11797160
+PMID: 37935936 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors have no conflict of interest related 
+to this work.
+
+
+33. Sci Rep. 2024 Feb 8;14(1):2760. doi: 10.1038/s41598-024-52404-w.
+
+Comparative oncology chemosensitivity assay for personalized medicine using 
+low-coherence digital holography of dynamic light scattering from cancer 
+biopsies.
+
+Hua Z(1), Li Z(1), Lim D(1), Ajrouch A(2), Karkash A(2), Jalal S(2), Childress 
+M(3), Turek J(4), Nolte D(5).
+
+Author information:
+(1)Department of Physics, Purdue University, West Lafayette, USA.
+(2)Division of Hematology/Oncology, Indiana University School of Medicine, 
+Indianapolis, USA.
+(3)Department of Veterinary Clinical Sciences, Purdue University, West 
+Lafayette, USA.
+(4)Department of Basic Medical Sciences, Purdue University, West Lafayette, USA.
+(5)Department of Physics, Purdue University, West Lafayette, USA. 
+nolte@purdue.edu.
+
+Nearly half of cancer patients who receive standard-of-care treatments fail to 
+respond to their first-line chemotherapy, demonstrating the pressing need for 
+improved methods to select personalized cancer therapies. Low-coherence digital 
+holography has the potential to fill this need by performing dynamic contrast 
+OCT on living cancer biopsies treated ex vivo with anti-cancer therapeutics. 
+Fluctuation spectroscopy of dynamic light scattering under conditions of 
+holographic phase stability captures ultra-low Doppler frequency shifts down to 
+10 mHz caused by light scattering from intracellular motions. In the comparative 
+preclinical/clinical trials presented here, a two-species (human and canine) and 
+two-cancer (esophageal carcinoma and B-cell lymphoma) analysis of spectral 
+phenotypes identifies a set of drug response characteristics that span species 
+and cancer type. Spatial heterogeneity across a centimeter-scale patient biopsy 
+sample is assessed by measuring multiple millimeter-scale sub-samples. Improved 
+predictive performance is achieved for chemoresistance profiling by identifying 
+red-shifted sub-samples that may indicate impaired metabolism and removing them 
+from the prediction analysis. These results show potential for using biodynamic 
+imaging for personalized selection of cancer therapy.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-52404-w
+PMCID: PMC10853550
+PMID: 38332203 [Indexed for MEDLINE]
+
+Conflict of interest statement: David Nolte and John Turek have a financial 
+interest in Animated Dynamics Inc. which is commercializing biodynamic imaging 
+for personalized cancer therapy selection. Zhen Hua, Zhe Li, Dawith Lim, Ali 
+Ajrouch, Ahmad Karkash, Shadia Jalal and Michael Childress declare no potential 
+conflict of interest.
