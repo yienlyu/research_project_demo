@@ -1,0 +1,30 @@
+
+python3 -c '
+import json, os
+
+path = os.path.expanduser("~/.claude.json")
+try:
+    with open(path, "r") as f:
+        data = json.load(f)
+except Exception:
+    data = {}
+
+if "mcpServers" not in data:
+    data["mcpServers"] = {}
+
+data["mcpServers"]["pubmed"] = {
+    "command": "npx",
+    "args": [
+        "-y",
+        "@ncukondo/mcp-server-pubmed",
+        "--email",
+        "your_email@example.com"
+    ]
+}
+
+with open(path, "w") as f:
+    json.dump(data, f, indent=2)
+
+'
+
+
