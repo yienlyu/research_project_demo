@@ -205,3 +205,26 @@ nlm notebook query lymphoma "Which of these sources are studies about cats?"
 執行 nlm notebook query ...
 用 Gemini Notebook 問 notebook <name/notebook-id>: ...
 ```
+
+### Claude Code SKILL
+
+save to: `~/.claude/skills/search-log/SKILL.md`
+
+```
+---
+name: search-log
+description: 讀取 literature/search_strategy.md,並使用 PubMed MCP 依序執行 S1 到 S4 的檢索式。使用者說「search pubmed」「search and log」「queries」時使用。
+---
+
+嚴格遵守以下規則:
+
+1.【禁止改動】請原封不動送出策略檔中的檢索式,不要擅自優化、增加同義詞或增刪括號。
+
+2.【紀錄 Log】每一條檢索式執行完畢後,將「執行日期」、「策略版本號」、「檢索式編號」、
+   「實際送出的檢索式」與「PubMed 回傳筆數」追加記錄至 literature/search_log.md。
+   並與 PubMed 網頁的數字核對,不一致請在備註欄註明。
+
+3.【匯出結果檔】請將最終組合檢索式(S4)的所有搜尋結果(包含 PMID、Title、Journal、
+   PubYear、Authors、Abstract)儲存為 CSV 檔,
+   路徑為:literature/results/<今天日期年月日>_S4.csv
+```
