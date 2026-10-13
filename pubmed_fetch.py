@@ -5,7 +5,7 @@ pubmed_fetch.py -> no need to install any packages
 usage:
     python pubmed_fetch.py
 
-output: 
+output:
     literature/search_log.md
     literature/results/[date]_S4.csv           -> lists
     literature/results/[date]_S4_abstracts.txt -> abstracts (for Gemini Notebook)
@@ -17,10 +17,13 @@ from datetime import date
 # -----
 # your turn!
 # -----
-EMAIL = "yienlyu@gmail.com"               # NCBI needs to know who you are
+EMAIL = "example@gmail.com"               # NCBI needs to know who you are
 API_KEY = ""                              # optional, key speed: 3 req/s to 10
 VERSION = "v2.0"                          # match the version search-strategy.md
-MAX_RECORDS = 200                         # max record counts, not the total results number
+
+MAX_RECORDS = 0                           # 0 = fetch ALL hits, any number = cap
+ESEARCH_CAP = 10000                       # PubMed esearch hard limit (NCBI)
+NOTEBOOK_WORD_LIMIT = 500_000             # Gemini Notebook, per source
 
 # put your queries here!
 QUERIES = {
@@ -59,9 +62,9 @@ def _get(endpoint, params, retries=3):
 
 def count_hits(term):
     """
-    Return (fetched amount, actual queries in PubMed). 
+    Return (total hits in PubMed, the query PubMed actually ran).
 
-    key: esearchresult.count - total amount in PubMed, 
+    key: esearchresult.count - total amount in PubMed,
     not how much returned. Easily mistaken!
     """
     r = json.loads(_get("esearch.fcgi", {
@@ -124,7 +127,7 @@ def main():
     os.makedirs("literature/results", exist_ok=True)
 
     # 1. count the amount first
-    print("Fetched amount: ")
+    print("Hits per block:")
     counts = {}
     for qid, term in QUERIES.items():
         n, _ = count_hits(term)
@@ -135,22 +138,43 @@ def main():
     counts[FINAL_ID] = total
     print(f"  {FINAL_ID}: {total:,}\n")
 
-    print("PubMed actual quries: ")
+    print("PubMed actual queries:")
     print(f"  {translation}\n")
-    print("Check this number with the PubMed site. Note it down if it's different. \n")
+    print("Check this number with the PubMed site. Note it down if it's different.\n")
 
     if total == 0:
-        print("Fetched 0, check the correctness of your quries.")
+        print("Fetched 0, check the correctness of your queries.")
+        print("(Full-width quotes? Unmatched brackets?)")
         return
 
-    # Fetch data
-    if total > MAX_RECORDS:
-        print(f"Fetched {total:,}, keep the first {MAX_RECORDS} according to the publish date. This is a subset. \n")
-    pmids = get_pmids(FINAL_QUERY, MAX_RECORDS)
+    # 2. decide how many to fetch
+    #    MAX_RECORDS = 0 means "all of them"
+    want = total if not MAX_RECORDS else min(MAX_RECORDS, total)
+
+    if want > ESEARCH_CAP:
+        print(f"Hit {total:,}, but PubMed esearch only returns the first {ESEARCH_CAP:,}.")
+        print("To get them all, split the query by date range (year by year),")
+        print("or use EDirect. Capping at the limit for now.\n")
+        want = ESEARCH_CAP
+    elif want < total:
+        print(f"Hit {total:,}, keeping the first {want:,} by publish date.")
+        print("This is a SUBSET, not everything.\n")
+    else:
+        print(f"Hit {total:,}, fetching ALL of them.\n")
+
+    # 3. fetch
+    pmids = get_pmids(FINAL_QUERY, want)
+    if not pmids:
+        print("esearch returned no PMIDs. Nothing to write.")
+        return
     rows = get_metadata(pmids)
     abstracts = get_abstracts(pmids)
 
-    # write files
+    if not rows:
+        print("esummary returned no records. Nothing to write.")
+        return
+
+    # 4. write files
     stem = f"literature/results/{today}_{FINAL_ID}"
 
     csv_path = f"{stem}.csv"
@@ -167,15 +191,24 @@ def main():
     new_log = not os.path.exists(log_path) or os.path.getsize(log_path) == 0
     with open(log_path, "a", encoding="utf-8") as f:
         if new_log:
-            f.write("| date | version | number | actual quries | fetched amount | keeped amount | result file | comments |\n")
+            f.write("| date | version | number | actual queries | total hits | fetched | result file | comments |\n")
             f.write("|---|---|---|---|---|---|---|---|\n")
         q = FINAL_QUERY.replace("|", "\\|").replace("\n", " ")
         f.write(f"| {today} | {VERSION} | {FINAL_ID} | `{q}` | "
                 f"{total} | {len(rows)} | {csv_path} | |\n")
 
-    print(f"\n {csv_path} ({len(rows)}) records")
-    print(f" {txt_path} ({len(abstracts):,} characters) <- upload this to Gemini Notebook")
-    print(f" {log_path} added")
+    # 5. report
+    words = len(abstracts.split())
+    print(f"\n {csv_path} ({len(rows):,} records)")
+    print(f" {txt_path} ({len(abstracts):,} characters / {words:,} words)"
+          f" <- upload this to Gemini Notebook")
+    if words > NOTEBOOK_WORD_LIMIT:
+        over = words - NOTEBOOK_WORD_LIMIT
+        print(f"   !! {words:,} words is {over:,} over Gemini Notebook's"
+              f" {NOTEBOOK_WORD_LIMIT:,}-word per-source limit.")
+        print(f"      Split the file, or lower MAX_RECORDS to about"
+              f" {int(len(rows) * NOTEBOOK_WORD_LIMIT / words):,}.")
+    print(f" {log_path} (one row added)")
 
 
 if __name__ == "__main__":
