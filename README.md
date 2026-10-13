@@ -10,12 +10,15 @@ cd research_project_demo
 and it would look like:
 
 ```
-├── abstract-CatDogDisease-set-1012.txt   <- can send it to Gemini Notebook
+├── abstract-CatDogDisease-set-1012.txt   <- saved from PubMed site, can send it to Gemini Notebook
 ├── add_search_strategy
-├── csv-CatDogDisease-set-1012.csv        <- same list
+├── csv-CatDogDisease-set-1012.csv        <- saved from PubMed site, same list
 ├── demo.py                               <- only fetch amount/numbers
 ├── global_setup_claude_json
 ├── literature/
+│   ├── results/
+│   │   ├── 2026-10-13_S4_abstract.txt    <- saved from pubmed_fetch.py
+│   │   └── 2026-10-13_S4.csv             <- saved from pubmed_fetch.py
 │   ├── search_log.md
 │   └── search_strategy.md
 ├── pubmed_fetch.py                       <- return: csv, txt, log
